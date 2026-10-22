@@ -2,6 +2,8 @@
 
 Private execution workspace for the Goslin Branch rental conversion, shared funding, BandyWorks Phase 0, and property equipment.
 
+**Project view currently unavailable:** GitHub saves the 43 issue memberships and their fields, but its project item collection and browser board return no items. Use the [dated task schedule](TASKS.md) or [repository issues](https://github.com/BandoKal/bandyland-properties/issues) while this remains unresolved. The daily generator reads memberships directly from issues and continues to work. See [diagnostic details](planning/project-visibility.md).
+
 - [Project sorted by target date](https://github.com/users/BandoKal/projects/5/views/2)
 - [Workstream board](https://github.com/users/BandoKal/projects/5/views/3)
 - [Event-dependent tasks](https://github.com/users/BandoKal/projects/5/views/4)
