@@ -1,0 +1,182 @@
+{
+  "owner": "BandoKal",
+  "repository": "BandoKal/bandyland-properties",
+  "repository_url": "https://github.com/BandoKal/bandyland-properties",
+  "project_number": 5,
+  "project_id": "PVT_kwHOACOc9c4BoS7q",
+  "project_url": "https://github.com/users/BandoKal/projects/5",
+  "visibility": "private",
+  "publication_status": "issues_and_fields_published",
+  "proposed_start_date": "2026-10-22",
+  "timezone": "America/Chicago",
+  "daily_time": "08:00",
+  "actual_listing_date": null,
+  "actual_fallback_date": null,
+  "actual_lease_start": null,
+  "fields": {
+    "Title": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKI",
+      "name": "Title",
+      "type": "ProjectV2Field"
+    },
+    "Assignees": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKM",
+      "name": "Assignees",
+      "type": "ProjectV2Field"
+    },
+    "Status": {
+      "id": "PVTSSF_lAHOACOc9c4BoS7qzhmzsKQ",
+      "name": "Status",
+      "options": [
+        {
+          "id": "f75ad846",
+          "name": "Todo"
+        },
+        {
+          "id": "47fc9ee4",
+          "name": "In Progress"
+        },
+        {
+          "id": "98236657",
+          "name": "Done"
+        }
+      ],
+      "type": "ProjectV2SingleSelectField"
+    },
+    "Labels": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKU",
+      "name": "Labels",
+      "type": "ProjectV2Field"
+    },
+    "Linked pull requests": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKY",
+      "name": "Linked pull requests",
+      "type": "ProjectV2Field"
+    },
+    "Milestone": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKc",
+      "name": "Milestone",
+      "type": "ProjectV2Field"
+    },
+    "Repository": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKg",
+      "name": "Repository",
+      "type": "ProjectV2Field"
+    },
+    "Reviewers": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKo",
+      "name": "Reviewers",
+      "type": "ProjectV2Field"
+    },
+    "Parent issue": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKs",
+      "name": "Parent issue",
+      "type": "ProjectV2Field"
+    },
+    "Sub-issues progress": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKw",
+      "name": "Sub-issues progress",
+      "type": "ProjectV2Field"
+    },
+    "Created": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsK4",
+      "name": "Created",
+      "type": "ProjectV2Field"
+    },
+    "Updated": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsK8",
+      "name": "Updated",
+      "type": "ProjectV2Field"
+    },
+    "Closed": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsLA",
+      "name": "Closed",
+      "type": "ProjectV2Field"
+    },
+    "Start date": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmztzE",
+      "name": "Start date",
+      "type": "ProjectV2Field"
+    },
+    "Target date": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmztzo",
+      "name": "Target date",
+      "type": "ProjectV2Field"
+    },
+    "Workstream": {
+      "id": "PVTSSF_lAHOACOc9c4BoS7qzhmztzw",
+      "name": "Workstream",
+      "options": [
+        {
+          "id": "b6ff736d",
+          "name": "Funding"
+        },
+        {
+          "id": "38e28954",
+          "name": "Rental"
+        },
+        {
+          "id": "dbd6fc3e",
+          "name": "Operations"
+        },
+        {
+          "id": "75c9e82a",
+          "name": "BandyWorks"
+        },
+        {
+          "id": "76ba85e0",
+          "name": "Property Equipment"
+        }
+      ],
+      "type": "ProjectV2SingleSelectField"
+    },
+    "Priority": {
+      "id": "PVTSSF_lAHOACOc9c4BoS7qzhmzt0E",
+      "name": "Priority",
+      "options": [
+        {
+          "id": "cb573c8f",
+          "name": "P0"
+        },
+        {
+          "id": "1f2405f5",
+          "name": "P1"
+        },
+        {
+          "id": "ca882759",
+          "name": "P2"
+        }
+      ],
+      "type": "ProjectV2SingleSelectField"
+    },
+    "Date basis": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzt1U",
+      "name": "Date basis",
+      "type": "ProjectV2Field"
+    },
+    "Depends on": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzt1s",
+      "name": "Depends on",
+      "type": "ProjectV2Field"
+    },
+    "Trigger": {
+      "id": "PVTF_lAHOACOc9c4BoS7qzhmzt2k",
+      "name": "Trigger",
+      "type": "ProjectV2Field"
+    }
+  },
+  "views": [
+    {
+      "name": "By target date",
+      "url": "https://github.com/users/BandoKal/projects/5/views/2"
+    },
+    {
+      "name": "By workstream",
+      "url": "https://github.com/users/BandoKal/projects/5/views/3"
+    },
+    {
+      "name": "Awaiting events",
+      "url": "https://github.com/users/BandoKal/projects/5/views/4"
+    }
+  ]
+}

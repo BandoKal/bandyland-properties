@@ -1,0 +1,1178 @@
+[
+  {
+    "key": "F01",
+    "title": "Reconcile rental funding and approve the reserve policy",
+    "workstream": "Funding",
+    "start_date": "2026-10-22",
+    "target_date": "2026-10-23",
+    "priority": "P0",
+    "dependencies": [],
+    "source": "Plan: Startup Funding Before Lease Up, Reserve Before Income; Budget: Rental!C4:C9,E10:E19",
+    "checklist": [
+      "Confirm whether the $9,000 or $18,000 reserve governs",
+      "Reconcile $22,310 plan funding against $20,000 workbook funding",
+      "Decide whether the $2,000 preparation cushion remains additive; current C6 formula consumes it",
+      "Approve one written funding/distribution policy and record assumptions",
+      "Update a working budget copy after approval, preserving the supplied original"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 1,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/1",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02RU",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuHgA",
+    "fields_published": true
+  },
+  {
+    "key": "F02",
+    "title": "Confirm actual RSU proceeds and household emergency funding",
+    "workstream": "Funding",
+    "start_date": "2026-10-22",
+    "target_date": "2026-10-26",
+    "priority": "P0",
+    "dependencies": [],
+    "source": "Budget!B5:B16",
+    "checklist": [
+      "Replace the $96,290 proceeds estimate with actual net proceeds or document why unavailable",
+      "Confirm taxes, withholding and any adviser follow-up without assuming the estimate is spendable cash",
+      "Check rental, BandyWorks and property equipment allocations against available cash",
+      "Validate the $26,000 emergency reference against household needs",
+      "Record any funding shortfall before commitments"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 2,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/2",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02XY",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuIbg",
+    "fields_published": true
+  },
+  {
+    "key": "R01",
+    "title": "Obtain and verify the signed sale-listing release",
+    "workstream": "Rental",
+    "start_date": "2026-10-22",
+    "target_date": "2026-10-26",
+    "priority": "P0",
+    "dependencies": [],
+    "source": "Plan appendix Task 1; Existing Listing Agreement",
+    "checklist": [
+      "Prepare release terms for Amanda Anderson and Realty Executives Hometown Living",
+      "Resolve cancellation costs, prior-buyer protection, active prospects and surviving commissions or rental rights",
+      "Obtain complete owner and broker signatures",
+      "Confirm MLS/public advertising removal, showings cancellation and sign/lockbox return",
+      "Retain executed release and written confirmations"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 3,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/3",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02bw",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuJeg",
+    "fields_published": true
+  },
+  {
+    "key": "R02",
+    "title": "Obtain landlord insurance and written closed-pool requirements",
+    "workstream": "Rental",
+    "start_date": "2026-10-22",
+    "target_date": "2026-10-28",
+    "priority": "P0",
+    "dependencies": [],
+    "source": "Plan appendix Task 2; Rental!C31:C32",
+    "checklist": [
+      "Obtain a written quote with effective dates, vacancy coverage, dwelling, liability, loss of rent and deductibles",
+      "Confirm water backup, service lines, ordinance coverage and umbrella needs",
+      "Obtain written cover, fence, gate, signs, inspections and maintenance requirements for the closed pool",
+      "Request pool-vendor scope and quote",
+      "Save quote and requirements; do not treat an unbound quote as active coverage"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 4,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/4",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02gg",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuKtA",
+    "fields_published": true
+  },
+  {
+    "key": "R04",
+    "title": "Compare management proposals and choose an operating model",
+    "workstream": "Rental",
+    "start_date": "2026-10-22",
+    "target_date": "2026-10-28",
+    "priority": "P0",
+    "dependencies": [],
+    "source": "Plan appendix Task 4; Two Management Paths",
+    "checklist": [
+      "Request two proposals including management, placement, renewal, inspection, vendor markup and cancellation fees",
+      "Confirm responsibility for screenings, emergencies, deposits, notices, records and tenant benefits",
+      "Compare actual fees with the 9% model",
+      "Record manager selection or deliberate owner-management decision",
+      "Assign primary and backup owners; document six-month avoided-fee retention if self-managed"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 5,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/5",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02lc",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuL5g",
+    "fields_published": true
+  },
+  {
+    "key": "R07",
+    "title": "Collect closing records and create the improvement schedule",
+    "workstream": "Rental",
+    "start_date": "2026-10-22",
+    "target_date": "2026-10-28",
+    "priority": "P1",
+    "dependencies": [],
+    "source": "Plan appendix Task 5",
+    "checklist": [
+      "Collect closing statement, invoices, permits, contracts, payments and photos",
+      "Document garage conversion, added area and exterior work",
+      "List each project, completion date, contractor, amount and evidence location",
+      "Flag missing evidence and repairs-versus-improvements questions for the adviser"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 6,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/6",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02rI",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuNDQ",
+    "fields_published": true
+  },
+  {
+    "key": "R03",
+    "title": "Confirm lender requirements and update insurance and escrow costs",
+    "workstream": "Rental",
+    "start_date": "2026-10-26",
+    "target_date": "2026-10-29",
+    "priority": "P0",
+    "dependencies": [
+      "R02"
+    ],
+    "source": "Plan appendix Task 2; Risks, Assumptions, and Unfinished Work",
+    "checklist": [
+      "Confirm lender/servicer rental-conversion requirements and evidence-of-coverage delivery",
+      "Verify insurance effective date and any escrow/payment change",
+      "Replace the incremental $125 insurance estimate with actual incremental cost",
+      "Record written instructions and avoid double-counting insurance already in escrow"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 7,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/7",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02vU",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuOTA",
+    "fields_published": true
+  },
+  {
+    "key": "R05",
+    "title": "Establish property accounts and fund the approved reserve",
+    "workstream": "Rental",
+    "start_date": "2026-10-26",
+    "target_date": "2026-10-29",
+    "priority": "P0",
+    "dependencies": [
+      "F01",
+      "F02"
+    ],
+    "source": "Plan appendix Task 3",
+    "checklist": [
+      "Owners establish dedicated operating/reserve and separate insured tenant-deposit accounts",
+      "Fund the approved reserve before lease signing or document the approved ramp plan",
+      "Keep the tenant deposit outside business cash and benefit funding",
+      "Retain funding evidence without putting bank identifiers in GitHub"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 8,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/8",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC020E",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuPVQ",
+    "fields_published": true
+  },
+  {
+    "key": "E01",
+    "title": "Define mower, woods vehicle and trailer requirements",
+    "workstream": "Property Equipment",
+    "start_date": "2026-10-26",
+    "target_date": "2026-10-29",
+    "priority": "P1",
+    "dependencies": [],
+    "source": "Property Equipment!A9:F14; requirements inferred from unquoted categories",
+    "checklist": [
+      "Document terrain, mowing area, intended loads and storage",
+      "Confirm tow-vehicle capacity, hitch, payload and trailer needs",
+      "List safety gear, accessories and maintenance supplies",
+      "Set category priorities within the combined $20,000 allowance"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 9,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/9",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC023o",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuQhg",
+    "fields_published": true
+  },
+  {
+    "key": "R09",
+    "title": "Inspect safety, mechanical systems, grounds and septic",
+    "workstream": "Rental",
+    "start_date": "2026-10-26",
+    "target_date": "2026-10-30",
+    "priority": "P0",
+    "dependencies": [],
+    "source": "Plan appendix Task 6; startup inspection estimate $1,500",
+    "checklist": [
+      "Schedule inspections covering alarms, locks, windows, stairs/rails, electrical, plumbing, water heater, HVAC and appliances",
+      "Review septic, pests, drainage, trees and trip hazards",
+      "Classify findings as required before marketing, required before occupancy, preventive or cosmetic",
+      "Obtain itemized quotes and update the startup cost register"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 10,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/10",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC028A",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuS-A",
+    "fields_published": true
+  },
+  {
+    "key": "B01",
+    "title": "Confirm Phase 0 scope and delivered-cost quotes",
+    "workstream": "BandyWorks",
+    "start_date": "2026-10-26",
+    "target_date": "2026-10-30",
+    "priority": "P1",
+    "dependencies": [
+      "F02"
+    ],
+    "source": "BandyWorks!A9:H59",
+    "checklist": [
+      "Confirm laser, saw/stand, drill press and design-dependent wet-saw models",
+      "Obtain current tax, freight, accessory, installation and warranty costs",
+      "Retain the existing K1 Max; exclude UV laser/CNC and superseded $27,000 plan",
+      "Reconcile $8,930.42 listed subtotal and $3,069.58 buffer with $12,000 ceiling",
+      "Price any separate operating reserve"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 11,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/11",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03A8",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuUFA",
+    "fields_published": true
+  },
+  {
+    "key": "R06",
+    "title": "Configure bookkeeping, reserve categories and payment transitions",
+    "workstream": "Rental",
+    "start_date": "2026-10-27",
+    "target_date": "2026-10-30",
+    "priority": "P1",
+    "dependencies": [
+      "R05"
+    ],
+    "source": "Plan appendix Task 3; Rental!C24:C50",
+    "checklist": [
+      "Create ledger for rent, mortgage, insurance, repairs, vacancy, capital, turnover, pool, benefits and distributions",
+      "Establish receipt storage and monthly reconciliation",
+      "Configure reserve percentages and $75 benefit funding after approved budget check",
+      "Verify first due dates and overlap before moving autopay",
+      "Track known 90-day costs and distribution stop conditions"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 12,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/12",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03GA",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuVIw",
+    "fields_published": true
+  },
+  {
+    "key": "R12",
+    "title": "Configure rental platform, emergency coverage and vendor roster",
+    "workstream": "Rental",
+    "start_date": "2026-10-28",
+    "target_date": "2026-11-02",
+    "priority": "P0",
+    "dependencies": [
+      "R04"
+    ],
+    "source": "Plan: What Self Management Requires; appendix Task 4",
+    "checklist": [
+      "Select platform for applications, screening, signatures, rent, maintenance and records",
+      "Establish primary and backup contact and a 24-hour emergency method",
+      "Confirm plumber, HVAC, electrician, locksmith, pool and general-repair contacts",
+      "Define repair approval, entry, late-payment, inspection, renewal and deposit workflows",
+      "Test intake and emergency routing; keep tenant records outside GitHub"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 13,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/13",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03Ks",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuWOQ",
+    "fields_published": true
+  },
+  {
+    "key": "R13",
+    "title": "Approve screening criteria and base lease terms",
+    "workstream": "Rental",
+    "start_date": "2026-10-28",
+    "target_date": "2026-11-02",
+    "priority": "P0",
+    "dependencies": [
+      "R04"
+    ],
+    "source": "Plan appendix Task 7",
+    "checklist": [
+      "Document consistent income, credit, rental history, occupancy, pets, identity and background criteria",
+      "Define incomplete-application treatment and application order",
+      "Set rent, floor, deposit, lease length, due date, utilities, insurance and other business terms",
+      "Draft lawn duties and closed-pool clauses",
+      "Obtain professional review before accepting applications"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 14,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/14",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03PQ",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuXNQ",
+    "fields_published": true
+  },
+  {
+    "key": "B02",
+    "title": "Validate workshop layout, electrical work and fire protection",
+    "workstream": "BandyWorks",
+    "start_date": "2026-10-26",
+    "target_date": "2026-11-03",
+    "priority": "P0",
+    "dependencies": [],
+    "source": "BandyWorks!A14:H17,A42:H43; implementation task inferred from purchase dependencies",
+    "checklist": [
+      "Map laser, clean assembly, wood-dust and wet-stone work areas",
+      "Verify benches, carts, storage and equipment clearances",
+      "Obtain electrician quote for load, circuits and lighting",
+      "Define required fire/safety equipment and installation scope",
+      "Document constraints before ordering machinery"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 15,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/15",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03UE",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuYfA",
+    "fields_published": true
+  },
+  {
+    "key": "R15",
+    "title": "Validate and document Fair Partnership benefits",
+    "workstream": "Rental",
+    "start_date": "2026-10-28",
+    "target_date": "2026-11-03",
+    "priority": "P0",
+    "dependencies": [
+      "R04",
+      "F01"
+    ],
+    "source": "Plan: Fair Partnership Credit and Capital Program; appendix Task 7",
+    "checklist": [
+      "Confirm platform, bureau coverage, fees, consent, privacy and dispute process",
+      "Define objective quarterly eligibility and prospective $75 credits",
+      "Define $400 annual benefit and owner-funded 3% deposit-growth bonus",
+      "Check actual deposit and fees against $900 yearly funding; $3,595 deposit with $104 reporting yields $911.85 modeled maximum",
+      "Obtain legal/tax review and document no ownership interest or deposit-funded benefits",
+      "Assign monthly, quarterly and annual administration"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 16,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/16",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03Zw",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuZnw",
+    "fields_published": true
+  },
+  {
+    "key": "R14",
+    "title": "Quote optional services and approve the service addendum",
+    "workstream": "Rental",
+    "start_date": "2026-10-28",
+    "target_date": "2026-11-03",
+    "priority": "P1",
+    "dependencies": [],
+    "source": "Plan: Optional Lease Services; appendix Task 7",
+    "checklist": [
+      "Obtain dependable quotes for optional lawn, trash, cleaning and any selected additional services",
+      "Confirm cost-plus 10%\u201315% pricing and access/schedule terms",
+      "Define cancellation, missed visits and renewal pricing",
+      "Document landlord responsibility for hazardous trees, drainage and major exterior work",
+      "Omit unquoted options and keep pool access excluded"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 17,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/17",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03gE",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuauA",
+    "fields_published": true
+  },
+  {
+    "key": "B03",
+    "title": "Verify laser exhaust and wood-dust collection compatibility",
+    "workstream": "BandyWorks",
+    "start_date": "2026-10-28",
+    "target_date": "2026-11-04",
+    "priority": "P0",
+    "dependencies": [
+      "B01",
+      "B02"
+    ],
+    "source": "BandyWorks!A18:H26",
+    "checklist": [
+      "Verify xTool airflow requirements and proposed S6 fan compatibility",
+      "Confirm metal duct route, termination, damper, mounting and installed cost",
+      "Validate saw capture, separator, hoses and whole-system filtration",
+      "Do not treat a filter upgrade alone as proof of certified HEPA extraction",
+      "Obtain documented suitable equipment/installation plan"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 18,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/18",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03l4",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNub4w",
+    "fields_published": true
+  },
+  {
+    "key": "B04",
+    "title": "Validate wet-stone prototype equipment and containment",
+    "workstream": "BandyWorks",
+    "start_date": "2026-10-28",
+    "target_date": "2026-11-04",
+    "priority": "P0",
+    "dependencies": [
+      "B01",
+      "B02"
+    ],
+    "source": "BandyWorks!A12:H12,A27:H31,A34:H36",
+    "checklist": [
+      "Confirm candidate wet saw and polisher suitability for intended stone work",
+      "Determine whether the reservoir eliminates a separate recirculation pump",
+      "Specify splash tray, wet-zone mat, lidded settling buckets, filtration and slurry handling",
+      "Verify electrical/wet-area safety with a qualified professional",
+      "Obtain quotes before buying design-dependent equipment"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 19,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/19",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03qg",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNudAA",
+    "fields_published": true
+  },
+  {
+    "key": "R10",
+    "title": "Complete insurer-required pool closure and winterization",
+    "workstream": "Rental",
+    "start_date": "2026-10-28",
+    "target_date": "2026-11-04",
+    "priority": "P0",
+    "dependencies": [
+      "R02",
+      "F01"
+    ],
+    "source": "Plan appendix Task 6; pool estimate $2,800",
+    "checklist": [
+      "Approve vendor scope consistent with the insurer's written conditions",
+      "Complete cover, fence/gate, equipment shutdown and winterization work",
+      "Define owner/vendor periodic checks",
+      "Save dated photos, invoices and completion confirmation",
+      "Keep pool access unavailable"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 20,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/20",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03wk",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNueDQ",
+    "fields_published": true
+  },
+  {
+    "key": "E02",
+    "title": "Obtain delivered-cost equipment quotes and compare options",
+    "workstream": "Property Equipment",
+    "start_date": "2026-10-29",
+    "target_date": "2026-11-04",
+    "priority": "P1",
+    "dependencies": [
+      "E01"
+    ],
+    "source": "Property Equipment!C9:F23",
+    "checklist": [
+      "Quote mower, woods vehicle, small box trailer and necessary accessories",
+      "Include taxes, delivery, setup, safety/storage and initial maintenance",
+      "Verify compatibility and inspection/warranty needs",
+      "Record costs in a working budget and distinguish unquoted from zero",
+      "Present an option set within $20,000 or document a funding decision"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 21,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/21",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC0300",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNufQg",
+    "fields_published": true
+  },
+  {
+    "key": "R08",
+    "title": "Confirm rental tax setup and the future sale decision window",
+    "workstream": "Rental",
+    "start_date": "2026-10-28",
+    "target_date": "2026-11-04",
+    "priority": "P1",
+    "dependencies": [
+      "R07"
+    ],
+    "source": "Plan: Tax Treatment and Implementation; appendix Task 5",
+    "checklist": [
+      "Have the tax adviser determine conversion basis, building/land allocation, valuation evidence and rental start date",
+      "Record actual residence dates and adviser-confirmed sale/renewal decision deadlines",
+      "Review depreciation, reporting and owner-funded tenant bonus treatment",
+      "Create dated follow-up issues once adviser deadlines are known"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 22,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/22",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC035U",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNugew",
+    "fields_published": true
+  },
+  {
+    "key": "R11",
+    "title": "Complete required repairs and make-ready cleanup",
+    "workstream": "Rental",
+    "start_date": "2026-10-30",
+    "target_date": "2026-11-05",
+    "priority": "P0",
+    "dependencies": [
+      "R09",
+      "F01"
+    ],
+    "source": "Plan appendix Task 6; repairs $2,500, cleanup $1,150 estimates",
+    "checklist": [
+      "Approve prioritized quotes against available startup funding",
+      "Complete safety/habitability work and required repairs",
+      "Finish deep cleaning, touch-ups, lawn stabilization and exterior cleanup",
+      "Reinspect work and retain invoices",
+      "Record any deferred cosmetic work and occupancy blockers explicitly"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 23,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/23",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC039o",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuhuA",
+    "fields_published": true
+  },
+  {
+    "key": "R16",
+    "title": "Finalize reviewed lease, addenda and move-in packet",
+    "workstream": "Rental",
+    "start_date": "2026-11-02",
+    "target_date": "2026-11-05",
+    "priority": "P0",
+    "dependencies": [
+      "R12",
+      "R13",
+      "R14",
+      "R15"
+    ],
+    "source": "Plan appendix Task 7",
+    "checklist": [
+      "Have Tennessee counsel or qualified property manager review lease, notices and deposit procedure",
+      "Finalize optional-service and Fair Partnership addenda",
+      "Configure approved forms, signatures, rent and maintenance functions",
+      "Prepare condition report, key log, emergency instructions and acknowledgments",
+      "Store reviewed versions and completion evidence"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 24,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/24",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04B8",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNujDQ",
+    "fields_published": true
+  },
+  {
+    "key": "R18",
+    "title": "Approve readiness and publish the rental listing",
+    "workstream": "Rental",
+    "start_date": "2026-11-06",
+    "target_date": "2026-11-06",
+    "priority": "P0",
+    "dependencies": [
+      "R01",
+      "R03",
+      "R05",
+      "R06",
+      "R08",
+      "R10",
+      "R11",
+      "R12",
+      "R16",
+      "R17"
+    ],
+    "source": "Plan appendix Task 8; prerequisite schedule synthesized from Tasks 1\u20137",
+    "checklist": [
+      "Confirm executed release, active appropriate coverage, lender confirmation, safety, reserve and lease readiness",
+      "Resolve all marketing/occupancy blockers or postpone launch",
+      "Owners approve publication at $3,595",
+      "Publish through selected platform and broad rental channels",
+      "Record actual listing date and rebase day-7/day-14 review dates"
+    ],
+    "date_basis": "Proposed launch gate",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 25,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/25",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04HA",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNukCA",
+    "fields_published": true
+  },
+  {
+    "key": "F03",
+    "title": "Reconcile quotes, actual spend and remaining project funding",
+    "workstream": "Funding",
+    "start_date": "2026-10-30",
+    "target_date": "2026-11-06",
+    "priority": "P1",
+    "dependencies": [
+      "F01",
+      "F02"
+    ],
+    "source": "Budget!B5:B16; all purchase/funding sheets",
+    "checklist": [
+      "Update working budget with actual receipts and firm quotes across all workstreams",
+      "Keep rental recurring reserves separate from startup costs",
+      "Recompute emergency residual and retain unallocated BandyWorks/property funding correctly",
+      "Flag remaining unpriced installation, insurance, repairs and operating reserve",
+      "Record funding decisions and repeat weekly through initial procurement"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 26,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/26",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04LI",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNulSQ",
+    "fields_published": true
+  },
+  {
+    "key": "R17",
+    "title": "Prepare professional photos, floor plan and listing copy",
+    "workstream": "Rental",
+    "start_date": "2026-11-05",
+    "target_date": "2026-11-06",
+    "priority": "P1",
+    "dependencies": [
+      "R10",
+      "R11",
+      "R16"
+    ],
+    "source": "Plan appendix Task 8; marketing estimate $350",
+    "checklist": [
+      "Capture accurate photos and a floor plan if available",
+      "Describe area, bedrooms, acreage and property limitations accurately",
+      "Disclose closed pool, tenant lawn duties, insurance and complete base terms",
+      "Include optional services only when quoted and documented",
+      "Review publication channels and application process"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 27,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/27",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04P8",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNum2w",
+    "fields_published": true
+  },
+  {
+    "key": "B05",
+    "title": "Approve and procure the Phase 0 package within funded limits",
+    "workstream": "BandyWorks",
+    "start_date": "2026-11-04",
+    "target_date": "2026-11-10",
+    "priority": "P1",
+    "dependencies": [
+      "B01",
+      "B02",
+      "B03",
+      "B04",
+      "F01",
+      "F02"
+    ],
+    "source": "BandyWorks!A9:H49",
+    "checklist": [
+      "Owners approve final installed-cost bill of materials and any operating reserve",
+      "Prioritize required machinery, furniture, infrastructure and safety scope",
+      "Include printer filament/maintenance, prototype supplies and software only as needed",
+      "Record orders, delivered costs and delivery dates",
+      "Recheck emergency cash if total funding exceeds $12,000; do not infer purchase authorization from this issue"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 28,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/28",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04UI",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuoHg",
+    "fields_published": true
+  },
+  {
+    "key": "E03",
+    "title": "Approve and acquire the property equipment package",
+    "workstream": "Property Equipment",
+    "start_date": "2026-11-04",
+    "target_date": "2026-11-10",
+    "priority": "P2",
+    "dependencies": [
+      "E02",
+      "F01",
+      "F02"
+    ],
+    "source": "Property Equipment!A4:F28; proposed procurement sequence",
+    "checklist": [
+      "Owners approve exact items and combined funding",
+      "Complete any required inspections and documentation before purchase",
+      "Record purchases, delivery timing and receipts",
+      "Reconcile actuals against the allowance and emergency residual",
+      "Do not infer transaction authorization from the planning issue"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 29,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/29",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04Y0",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNupKw",
+    "fields_published": true
+  },
+  {
+    "key": "R19",
+    "title": "Track qualified inquiries, showings and applications",
+    "workstream": "Rental",
+    "start_date": "2026-11-06",
+    "target_date": "2026-11-13",
+    "priority": "P1",
+    "dependencies": [
+      "R18"
+    ],
+    "source": "Plan appendix Task 8",
+    "checklist": [
+      "Maintain a private log of qualified inquiries, showings and complete applications",
+      "Use move date, household size, approximate income, pets and acceptance of terms to qualify inquiry interest",
+      "Respond promptly and document price feedback",
+      "Track local comparison activity and listing reach",
+      "Report aggregate activity without applicant personal data"
+    ],
+    "date_basis": "Event dependent",
+    "event": "Start at actual listing publication; continue daily until leased or paused",
+    "status": "Todo",
+    "issue_number": 30,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/30",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04cs",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuqsQ",
+    "fields_published": true
+  },
+  {
+    "key": "R20",
+    "title": "Review the first seven days of rental demand",
+    "workstream": "Rental",
+    "start_date": "2026-11-13",
+    "target_date": "2026-11-13",
+    "priority": "P1",
+    "dependencies": [
+      "R18",
+      "R19"
+    ],
+    "source": "Plan: How and When to Change the Asking Rent; appendix Task 8",
+    "checklist": [
+      "Review qualified interest and completed applications",
+      "Check photos, terms, distribution, response time and application friction",
+      "Compare local listings and record feedback",
+      "Do not cut price solely because the home remains unleased"
+    ],
+    "date_basis": "Event dependent",
+    "event": "Actual listing date + 7 days; November 13 is only a placeholder",
+    "status": "Todo",
+    "issue_number": 31,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/31",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04hE",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNusIQ",
+    "fields_published": true
+  },
+  {
+    "key": "B06",
+    "title": "Install and verify workshop systems before production",
+    "workstream": "BandyWorks",
+    "start_date": "2026-11-10",
+    "target_date": "2026-11-17",
+    "priority": "P0",
+    "dependencies": [
+      "B05"
+    ],
+    "source": "BandyWorks purchase dependencies; proposed implementation sequence",
+    "checklist": [
+      "Complete approved electrical, exhaust, collection and containment installation",
+      "Assemble benches/carts/storage and inspect delivered machinery",
+      "Follow manufacturer setup and safety instructions with professional support where required",
+      "Record functional checks and unresolved defects before use",
+      "Preserve manuals, receipts, warranties and maintenance requirements"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 32,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/32",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04lM",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNutVg",
+    "fields_published": true
+  },
+  {
+    "key": "E04",
+    "title": "Inspect deliveries and establish equipment upkeep",
+    "workstream": "Property Equipment",
+    "start_date": "2026-11-10",
+    "target_date": "2026-11-17",
+    "priority": "P1",
+    "dependencies": [
+      "E03"
+    ],
+    "source": "Property Equipment!A12:F14; proposed operational follow-through",
+    "checklist": [
+      "Inspect delivered items and document defects",
+      "Verify towing/load compatibility, storage and safety equipment",
+      "Retain manuals and train intended operators",
+      "Record manufacturer service intervals and recurring maintenance dates",
+      "Assign an equipment owner"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 33,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/33",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04rA",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuujQ",
+    "fields_published": true
+  },
+  {
+    "key": "R23",
+    "title": "Evaluate completed applications under approved criteria",
+    "workstream": "Rental",
+    "start_date": "2026-11-06",
+    "target_date": "2026-11-20",
+    "priority": "P0",
+    "dependencies": [
+      "R18"
+    ],
+    "source": "Plan appendix Task 9",
+    "checklist": [
+      "Process applications in disclosed order with consistent criteria",
+      "Verify required identity, income, employment, credit, background and rental history",
+      "Owners or qualified manager document decisions and required notices",
+      "Keep screening evidence in the rental system",
+      "If no acceptable applicant exists, leave blocked and revise target rather than lowering standards"
+    ],
+    "date_basis": "Event dependent",
+    "event": "When a complete application arrives; November 20 is a review target, not promised placement",
+    "status": "Todo",
+    "issue_number": 34,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/34",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04xM",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuvyA",
+    "fields_published": true
+  },
+  {
+    "key": "R21",
+    "title": "Make the day-14 asking-rent decision",
+    "workstream": "Rental",
+    "start_date": "2026-11-20",
+    "target_date": "2026-11-20",
+    "priority": "P1",
+    "dependencies": [
+      "R20"
+    ],
+    "source": "Plan appendix Task 8",
+    "checklist": [
+      "Review complete applications and qualified price feedback",
+      "Move from $3,595 to $3,195 only if source criteria are met",
+      "Otherwise document holding, leasing or pausing",
+      "Record actual fallback date if changed and schedule a review at least seven days later"
+    ],
+    "date_basis": "Event dependent",
+    "event": "Actual listing date + 14 days; stop price-test tasks once leased",
+    "status": "Todo",
+    "issue_number": 35,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/35",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC043E",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuw5A",
+    "fields_published": true
+  },
+  {
+    "key": "B07",
+    "title": "Run prototype trials and establish repeatable costs",
+    "workstream": "BandyWorks",
+    "start_date": "2026-11-17",
+    "target_date": "2026-11-24",
+    "priority": "P1",
+    "dependencies": [
+      "B06"
+    ],
+    "source": "BandyWorks!A32:H41,A44:H44; proposed follow-through",
+    "checklist": [
+      "Test selected stone, acrylic, wood/brass and packaging concepts using suitable processes",
+      "Confirm material/adhesive/finish compatibility",
+      "Use outsourcing for specialty work as needed within funded scope",
+      "Record material usage, labor, scrap and results",
+      "Activate only needed software licenses and record renewals",
+      "Decide which products/processes merit a later launch plan; commercial launch scope is not supplied"
+    ],
+    "date_basis": "Proposed",
+    "event": null,
+    "status": "Todo",
+    "issue_number": 36,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/36",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC047w",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuyUQ",
+    "fields_published": true
+  },
+  {
+    "key": "R24",
+    "title": "Execute lease and complete pre-possession requirements",
+    "workstream": "Rental",
+    "start_date": null,
+    "target_date": null,
+    "priority": "P0",
+    "dependencies": [
+      "R23",
+      "R16",
+      "R05",
+      "R03",
+      "R10",
+      "R11"
+    ],
+    "source": "Plan appendix Task 9",
+    "checklist": [
+      "Confirm rent, dates, occupants, pets, utilities, insurance, lawn, pool and selected services/benefits",
+      "Owners execute all lease documents and collect cleared initial rent/deposit into correct accounts",
+      "Verify insurance evidence, utility transfer and required notices",
+      "Reconfirm active landlord coverage and all occupancy work",
+      "Set actual lease start and move-in dates"
+    ],
+    "date_basis": "Event dependent",
+    "event": "After approved applicant; complete before possession",
+    "status": "Todo",
+    "issue_number": 37,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/37",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Bs",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNuztQ",
+    "fields_published": true
+  },
+  {
+    "key": "R25",
+    "title": "Complete move-in inspection and activate the tenant calendar",
+    "workstream": "Rental",
+    "start_date": null,
+    "target_date": null,
+    "priority": "P0",
+    "dependencies": [
+      "R24"
+    ],
+    "source": "Plan appendix Task 9",
+    "checklist": [
+      "Complete signed condition report, dated photos and key/access log",
+      "Provide emergency instructions and acknowledgments",
+      "Schedule first exterior/pool inspection",
+      "Enter charges, reserves, deposit, monthly benefit funding and actual lease dates",
+      "Set reporting verification, quarterly credits and annual bonus dates",
+      "Retain voluntary reporting consent and verify first submission"
+    ],
+    "date_basis": "Event dependent",
+    "event": "At actual move-in and before handover",
+    "status": "Todo",
+    "issue_number": 38,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/38",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05HE",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNu1LQ",
+    "fields_published": true
+  },
+  {
+    "key": "O01",
+    "title": "Run the monthly rental close and operating review",
+    "workstream": "Operations",
+    "start_date": null,
+    "target_date": null,
+    "priority": "P1",
+    "dependencies": [
+      "R25",
+      "R06"
+    ],
+    "source": "Plan: Reserve Before Income, What Self Management Requires",
+    "checklist": [
+      "Reconcile rent, bills, receipts and account balances",
+      "Fund approved vacancy, repair, capital, turnover, pool and benefit allocations",
+      "Verify reporting submissions and resolve disputes",
+      "Review inspections, tickets, pool checks and upcoming 90-day costs",
+      "Log owner hours and escalate to management review when repeated months exceed five hours or service slips",
+      "Record the next monthly occurrence"
+    ],
+    "date_basis": "Recurring after lease",
+    "event": "Monthly after tenancy begins; use actual rent and accounting calendar",
+    "status": "Todo",
+    "issue_number": 39,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/39",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Lg",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNu2xQ",
+    "fields_published": true
+  },
+  {
+    "key": "O02",
+    "title": "Review quarterly tenant credits and owner distributions",
+    "workstream": "Operations",
+    "start_date": null,
+    "target_date": null,
+    "priority": "P1",
+    "dependencies": [
+      "R25",
+      "F01",
+      "R15"
+    ],
+    "source": "Plan: Fair Partnership, Reserve Before Income",
+    "checklist": [
+      "Apply written eligibility rules consistently and post earned prospective credits",
+      "Preserve tenant benefits independently of owner distributions",
+      "Check reserve floor, next 90-day costs and all distribution stop conditions",
+      "Owners approve any eligible distribution",
+      "Save reconciliation and schedule next quarterly review"
+    ],
+    "date_basis": "Recurring after lease",
+    "event": "Each completed qualifying lease quarter; owner distribution review at calendar quarter end",
+    "status": "Todo",
+    "issue_number": 40,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/40",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Pw",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNu3xg",
+    "fields_published": true
+  },
+  {
+    "key": "O03",
+    "title": "Review self-management after the six-month retention trial",
+    "workstream": "Operations",
+    "start_date": null,
+    "target_date": null,
+    "priority": "P1",
+    "dependencies": [
+      "R25",
+      "R04"
+    ],
+    "source": "Plan: Recommended Starting Path",
+    "checklist": [
+      "Review service quality, owner hours, emergency handling, fees and record quality",
+      "Confirm six months of avoided-fee retention and reserve adequacy",
+      "Decide whether to continue self-management or obtain updated manager proposals",
+      "Record decision before releasing retained cash"
+    ],
+    "date_basis": "Event dependent",
+    "event": "Six months after self-managed tenancy starts; not applicable if professionally managed",
+    "status": "Todo",
+    "issue_number": 41,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/41",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Tw",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNu47Q",
+    "fields_published": true
+  },
+  {
+    "key": "O04",
+    "title": "Review annual tenant benefits, renewal and the hold decision",
+    "workstream": "Operations",
+    "start_date": null,
+    "target_date": null,
+    "priority": "P1",
+    "dependencies": [
+      "R25",
+      "R08",
+      "R15"
+    ],
+    "source": "Plan: Fair Partnership, Tax Timing for a Later Sale",
+    "checklist": [
+      "Schedule renewal notice/decision dates using reviewed lease and legal requirements",
+      "Check adviser-defined sale eligibility timing before a long renewal",
+      "Evaluate late payments, vacancy, turnover, repairs, communication and program costs",
+      "Determine earned annual capital and deposit-growth benefits under written terms",
+      "Refresh insurance, service quotes, reserve targets and hold-versus-sell decision"
+    ],
+    "date_basis": "Recurring after lease",
+    "event": "Annual review anchored to actual lease; renewal/notice work must precede contractual deadlines",
+    "status": "Todo",
+    "issue_number": 42,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/42",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05YE",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNu6LA",
+    "fields_published": true
+  },
+  {
+    "key": "R22",
+    "title": "Review fallback demand and decide whether to proceed or pause",
+    "workstream": "Rental",
+    "start_date": null,
+    "target_date": null,
+    "priority": "P1",
+    "dependencies": [
+      "R21"
+    ],
+    "source": "Plan appendix Task 8",
+    "checklist": [
+      "Allow at least seven days after the actual fallback price change",
+      "Recheck listing, process, terms and competition",
+      "Maintain screening standards",
+      "Require both owners to reopen sell-versus-hold before considering rent below $2,995",
+      "Record the decision and revised schedule"
+    ],
+    "date_basis": "Event dependent",
+    "event": "Actual fallback date + at least 7 days; no date if price never changes",
+    "status": "Todo",
+    "issue_number": 43,
+    "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/43",
+    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05bQ",
+    "issue_node_id": "I_kwDOVT_W0M8AAAABZNu7cg",
+    "fields_published": true
+  }
+]
