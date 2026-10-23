@@ -19,7 +19,7 @@ The initial backlog contains 43 issues with checklists, sources, dates, prioriti
 2. [Confirm actual proceeds and emergency funding](https://github.com/BandoKal/bandyland-properties/issues/2).
 3. [Obtain the signed sale-listing release](https://github.com/BandoKal/bandyland-properties/issues/3).
 
-The owner confirmed a $9,000 initial reserve, growing toward $18,000 through retained owner draw. The retention percentage and startup budget remain pending. The workbook must separate initial funding from the target and reconcile its treatment of the $2,000 preparation allowance. See the [funding decision record](planning/funding-policy.md).
+The owner confirmed a $9,000 initial reserve, growing toward $18,000 through retained owner draw. The existing 9%-of-rent retention continues until $18,000 rather than ending after six months. The startup budget remains pending. The workbook must separate initial funding from the target and reconcile its treatment of the $2,000 preparation allowance. See the [funding decision record](planning/funding-policy.md).
 
 ## Daily routine
 
