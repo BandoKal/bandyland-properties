@@ -16,7 +16,7 @@ def api(endpoint, payload):
         raise RuntimeError(result["errors"])
     return result
 
-q = '{user(login:"BandoKal"){databaseId projectV2(number:5){fields(first:50){nodes{... on ProjectV2Field{name databaseId} ... on ProjectV2SingleSelectField{name databaseId}}} views(first:30){nodes{id name number}}}}}'
+q = '{user(login:' + json.dumps(c['owner']) + '){databaseId projectV2(number:' + str(c['project_number']) + '){fields(first:50){nodes{... on ProjectV2Field{name databaseId} ... on ProjectV2SingleSelectField{name databaseId}}} views(first:30){nodes{id name number}}}}}'
 u = api("graphql", {"query":q})["data"]["user"]
 fields = {f["name"]: f["databaseId"] for f in u["projectV2"]["fields"]["nodes"]}
 visible = [fields[n] for n in ["Title", "Status", "Assignees", "Workstream", "Priority", "Start date", "Target date", "Depends on", "Date basis", "Trigger"]]

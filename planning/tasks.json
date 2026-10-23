@@ -20,9 +20,10 @@
     "status": "Todo",
     "issue_number": 1,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/1",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02RU",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fkY",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuHgA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02RU"
   },
   {
     "key": "F02",
@@ -45,9 +46,10 @@
     "status": "Todo",
     "issue_number": 2,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/2",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02XY",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fkk",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuIbg",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02XY"
   },
   {
     "key": "R01",
@@ -70,9 +72,10 @@
     "status": "Todo",
     "issue_number": 3,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/3",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02bw",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fkw",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuJeg",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02bw"
   },
   {
     "key": "R02",
@@ -95,9 +98,10 @@
     "status": "Todo",
     "issue_number": 4,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/4",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02gg",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fk8",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuKtA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02gg"
   },
   {
     "key": "R04",
@@ -120,9 +124,10 @@
     "status": "Todo",
     "issue_number": 5,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/5",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02lc",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3flA",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuL5g",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02lc"
   },
   {
     "key": "R07",
@@ -144,9 +149,10 @@
     "status": "Todo",
     "issue_number": 6,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/6",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02rI",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3flE",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuNDQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02rI"
   },
   {
     "key": "R03",
@@ -170,9 +176,10 @@
     "status": "Todo",
     "issue_number": 7,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/7",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02vU",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3flI",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuOTA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC02vU"
   },
   {
     "key": "R05",
@@ -197,9 +204,10 @@
     "status": "Todo",
     "issue_number": 8,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/8",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC020E",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3flU",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuPVQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC020E"
   },
   {
     "key": "E01",
@@ -221,9 +229,10 @@
     "status": "Todo",
     "issue_number": 9,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/9",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC023o",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3flg",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuQhg",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC023o"
   },
   {
     "key": "R09",
@@ -245,9 +254,10 @@
     "status": "Todo",
     "issue_number": 10,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/10",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC028A",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3flo",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuS-A",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC028A"
   },
   {
     "key": "B01",
@@ -272,9 +282,10 @@
     "status": "Todo",
     "issue_number": 11,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/11",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03A8",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fl0",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuUFA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03A8"
   },
   {
     "key": "R06",
@@ -299,9 +310,10 @@
     "status": "Todo",
     "issue_number": 12,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/12",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03GA",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fmA",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuVIw",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03GA"
   },
   {
     "key": "R12",
@@ -326,9 +338,10 @@
     "status": "Todo",
     "issue_number": 13,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/13",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03Ks",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fmI",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuWOQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03Ks"
   },
   {
     "key": "R13",
@@ -353,9 +366,10 @@
     "status": "Todo",
     "issue_number": 14,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/14",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03PQ",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fmQ",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuXNQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03PQ"
   },
   {
     "key": "B02",
@@ -378,9 +392,10 @@
     "status": "Todo",
     "issue_number": 15,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/15",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03UE",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fmc",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuYfA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03UE"
   },
   {
     "key": "R15",
@@ -407,9 +422,10 @@
     "status": "Todo",
     "issue_number": 16,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/16",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03Zw",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fmk",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuZnw",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03Zw"
   },
   {
     "key": "R14",
@@ -432,9 +448,10 @@
     "status": "Todo",
     "issue_number": 17,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/17",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03gE",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fmo",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuauA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03gE"
   },
   {
     "key": "B03",
@@ -460,9 +477,10 @@
     "status": "Todo",
     "issue_number": 18,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/18",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03l4",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fmw",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNub4w",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03l4"
   },
   {
     "key": "B04",
@@ -488,9 +506,10 @@
     "status": "Todo",
     "issue_number": 19,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/19",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03qg",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fm4",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNudAA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03qg"
   },
   {
     "key": "R10",
@@ -516,9 +535,10 @@
     "status": "Todo",
     "issue_number": 20,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/20",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03wk",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fnE",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNueDQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC03wk"
   },
   {
     "key": "E02",
@@ -543,9 +563,10 @@
     "status": "Todo",
     "issue_number": 21,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/21",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC0300",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fnQ",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNufQg",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC0300"
   },
   {
     "key": "R08",
@@ -569,9 +590,10 @@
     "status": "Todo",
     "issue_number": 22,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/22",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC035U",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fng",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNugew",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC035U"
   },
   {
     "key": "R11",
@@ -597,9 +619,10 @@
     "status": "Todo",
     "issue_number": 23,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/23",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC039o",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fno",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuhuA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC039o"
   },
   {
     "key": "R16",
@@ -627,9 +650,10 @@
     "status": "Todo",
     "issue_number": 24,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/24",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04B8",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fnw",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNujDQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04B8"
   },
   {
     "key": "R18",
@@ -663,9 +687,10 @@
     "status": "Todo",
     "issue_number": 25,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/25",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04HA",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fn0",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNukCA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04HA"
   },
   {
     "key": "F03",
@@ -691,9 +716,10 @@
     "status": "Todo",
     "issue_number": 26,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/26",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04LI",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fn8",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNulSQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04LI"
   },
   {
     "key": "R17",
@@ -720,9 +746,10 @@
     "status": "Todo",
     "issue_number": 27,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/27",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04P8",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3foE",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNum2w",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04P8"
   },
   {
     "key": "B05",
@@ -752,9 +779,10 @@
     "status": "Todo",
     "issue_number": 28,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/28",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04UI",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3foU",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuoHg",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04UI"
   },
   {
     "key": "E03",
@@ -781,9 +809,10 @@
     "status": "Todo",
     "issue_number": 29,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/29",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04Y0",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3foc",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNupKw",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04Y0"
   },
   {
     "key": "R19",
@@ -808,9 +837,10 @@
     "status": "Todo",
     "issue_number": 30,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/30",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04cs",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fos",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuqsQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04cs"
   },
   {
     "key": "R20",
@@ -835,9 +865,10 @@
     "status": "Todo",
     "issue_number": 31,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/31",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04hE",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fow",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNusIQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04hE"
   },
   {
     "key": "B06",
@@ -862,9 +893,10 @@
     "status": "Todo",
     "issue_number": 32,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/32",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04lM",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fo4",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNutVg",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04lM"
   },
   {
     "key": "E04",
@@ -889,9 +921,10 @@
     "status": "Todo",
     "issue_number": 33,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/33",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04rA",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fo8",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuujQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04rA"
   },
   {
     "key": "R23",
@@ -916,9 +949,10 @@
     "status": "Todo",
     "issue_number": 34,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/34",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04xM",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fpI",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuvyA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC04xM"
   },
   {
     "key": "R21",
@@ -942,9 +976,10 @@
     "status": "Todo",
     "issue_number": 35,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/35",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC043E",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fpU",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuw5A",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC043E"
   },
   {
     "key": "B07",
@@ -970,9 +1005,10 @@
     "status": "Todo",
     "issue_number": 36,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/36",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC047w",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fpg",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuyUQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC047w"
   },
   {
     "key": "R24",
@@ -1002,9 +1038,10 @@
     "status": "Todo",
     "issue_number": 37,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/37",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Bs",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fps",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNuztQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Bs"
   },
   {
     "key": "R25",
@@ -1030,9 +1067,10 @@
     "status": "Todo",
     "issue_number": 38,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/38",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05HE",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fpw",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNu1LQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05HE"
   },
   {
     "key": "O01",
@@ -1059,9 +1097,10 @@
     "status": "Todo",
     "issue_number": 39,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/39",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Lg",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fqE",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNu2xQ",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Lg"
   },
   {
     "key": "O02",
@@ -1088,9 +1127,10 @@
     "status": "Todo",
     "issue_number": 40,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/40",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Pw",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fqI",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNu3xg",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Pw"
   },
   {
     "key": "O03",
@@ -1115,9 +1155,10 @@
     "status": "Todo",
     "issue_number": 41,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/41",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Tw",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fqY",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNu47Q",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05Tw"
   },
   {
     "key": "O04",
@@ -1144,9 +1185,10 @@
     "status": "Todo",
     "issue_number": 42,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/42",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05YE",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fqg",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNu6LA",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05YE"
   },
   {
     "key": "R22",
@@ -1171,8 +1213,9 @@
     "status": "Todo",
     "issue_number": 43,
     "issue_url": "https://github.com/BandoKal/bandyland-properties/issues/43",
-    "project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05bQ",
+    "project_item_id": "PVTI_lAHOACOc9c4BoUR-zhC3fqk",
     "issue_node_id": "I_kwDOVT_W0M8AAAABZNu7cg",
-    "fields_published": true
+    "fields_published": true,
+    "previous_project_item_id": "PVTI_lAHOACOc9c4BoS7qzhC05bQ"
   }
 ]

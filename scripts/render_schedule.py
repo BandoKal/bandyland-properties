@@ -5,7 +5,7 @@ from pathlib import Path
 root=Path(__file__).resolve().parents[1]
 tasks=json.loads((root/"planning/tasks.json").read_text())
 c=json.loads((root/"planning/github-project.json").read_text())
-rows=["# BandyLand Properties Task Schedule", "", "Prepared October 22, 2026 from the supplied business plan and budget. Dates are proposed; source completion status was not supplied. Use the live project for subsequent status and schedule changes.", "", f'[Live project sorted by target date]({c["project_url"]}/views/2)', "", "## Dated work", "", "| Target | Start | Task | Workstream | Priority | Depends on |", "| --- | --- | --- | --- | --- | --- |"]
+rows=["# BandyLand Properties Task Schedule", "", "Prepared October 22, 2026 from the supplied business plan and budget. Dates are proposed; source completion status was not supplied. Use the live project for subsequent status and schedule changes.", "", f'[Active GitHub project]({c["project_url"]}/views/2)', "", "## Dated work", "", "| Target | Start | Task | Workstream | Priority | Depends on |", "| --- | --- | --- | --- | --- | --- |"]
 bykey={t["key"]:t for t in tasks}
 for t in tasks:
     if not t["target_date"]: continue

@@ -2,11 +2,11 @@
 
 Private execution workspace for the Goslin Branch rental conversion, shared funding, BandyWorks Phase 0, and property equipment.
 
-**Project view currently unavailable:** GitHub saves the 43 issue memberships and their fields, but its project item collection and browser board return no items. Use the [dated task schedule](TASKS.md) or [repository issues](https://github.com/BandoKal/bandyland-properties/issues) while this remains unresolved. The daily generator reads memberships directly from issues and continues to work. See [diagnostic details](planning/project-visibility.md).
+The active project is the user-created **BandyLand project 7**, which returns all 43 issues. It replaces the original project 5, whose visibility problem is recorded in the [historical diagnostic report](planning/project-visibility.md).
 
-- [Project sorted by target date](https://github.com/users/BandoKal/projects/5/views/2)
-- [Workstream board](https://github.com/users/BandoKal/projects/5/views/3)
-- [Event-dependent tasks](https://github.com/users/BandoKal/projects/5/views/4)
+- [Project board](https://github.com/users/BandoKal/projects/7/views/2)
+- [Backlog](https://github.com/users/BandoKal/projects/7/views/1)
+- [Roadmap](https://github.com/users/BandoKal/projects/7/views/4)
 - [Workspace context](CONTEXT.md)
 - [Task schedule and issue links](TASKS.md)
 - [Daily to-do snapshot](DAILY_TODO.md)
@@ -19,7 +19,7 @@ The initial backlog contains 43 issues with checklists, sources, dates, prioriti
 2. [Confirm actual proceeds and emergency funding](https://github.com/BandoKal/bandyland-properties/issues/2).
 3. [Obtain the signed sale-listing release](https://github.com/BandoKal/bandyland-properties/issues/3).
 
-The plan's $22,310 startup requirement and $9,000 reserve conflict with the workbook's $20,000 funding and $18,000 reserve. The workbook also consumes its $2,000 preparation allowance as quotes arrive. Resolve these differences before committing funds.
+The owner confirmed a $9,000 initial reserve, growing toward $18,000 through retained owner draw. The retention percentage and startup budget remain pending. The workbook must separate initial funding from the target and reconcile its treatment of the $2,000 preparation allowance. See the [funding decision record](planning/funding-policy.md).
 
 ## Daily routine
 

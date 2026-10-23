@@ -1,15 +1,15 @@
 # Daily To Do for 2026-10-22
 
-Live GitHub snapshot: 2026-10-22T15:44:31-05:00. Time zone: America/Chicago.
+Live GitHub snapshot: 2026-10-22T20:03:54-05:00. Time zone: America/Chicago.
 
-[Project](https://github.com/users/BandoKal/projects/5) · [All issues](https://github.com/BandoKal/bandyland-properties/issues)
+[Project](https://github.com/users/BandoKal/projects/7) · [All issues](https://github.com/BandoKal/bandyland-properties/issues)
 
 43 open project issues. Dates are proposed unless confirmed in the issue; blocked tasks are not treated as executable.
 
 ## Focus today
 
 - [ ] [[F01] Reconcile rental funding and approve the reserve policy](https://github.com/BandoKal/bandyland-properties/issues/1) — target 2026-10-23.
-  Next step: Confirm whether the $9,000 or $18,000 reserve governs
+  Next step: Choose the percentage of available owner draw to retain until the reserve reaches $18,000
 - [ ] [[F02] Confirm actual RSU proceeds and household emergency funding](https://github.com/BandoKal/bandyland-properties/issues/2) — target 2026-10-26.
   Next step: Replace the $96,290 proceeds estimate with actual net proceeds or document why unavailable
 - [ ] [[R01] Obtain and verify the signed sale-listing release](https://github.com/BandoKal/bandyland-properties/issues/3) — target 2026-10-26.

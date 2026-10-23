@@ -2,7 +2,7 @@
 
 Prepared October 22, 2026 from the supplied business plan and budget. Dates are proposed; source completion status was not supplied. Use the live project for subsequent status and schedule changes.
 
-[Live project sorted by target date](https://github.com/users/BandoKal/projects/5/views/2)
+[Active GitHub project](https://github.com/users/BandoKal/projects/7/views/2)
 
 ## Dated work
 

@@ -2,11 +2,11 @@
   "owner": "BandoKal",
   "repository": "BandoKal/bandyland-properties",
   "repository_url": "https://github.com/BandoKal/bandyland-properties",
-  "project_number": 5,
-  "project_id": "PVT_kwHOACOc9c4BoS7q",
-  "project_url": "https://github.com/users/BandoKal/projects/5",
+  "project_number": 7,
+  "project_id": "PVT_kwHOACOc9c4BoUR-",
+  "project_url": "https://github.com/users/BandoKal/projects/7",
   "visibility": "private",
-  "publication_status": "issues_and_fields_published",
+  "publication_status": "user_project_active",
   "proposed_start_date": "2026-10-22",
   "timezone": "America/Chicago",
   "daily_time": "08:00",
@@ -15,17 +15,17 @@
   "actual_lease_start": null,
   "fields": {
     "Title": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKI",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09JA",
       "name": "Title",
       "type": "ProjectV2Field"
     },
     "Assignees": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKM",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09JM",
       "name": "Assignees",
       "type": "ProjectV2Field"
     },
     "Status": {
-      "id": "PVTSSF_lAHOACOc9c4BoS7qzhmzsKQ",
+      "id": "PVTSSF_lAHOACOc9c4BoUR-zhm09JU",
       "name": "Status",
       "options": [
         {
@@ -34,7 +34,7 @@
         },
         {
           "id": "47fc9ee4",
-          "name": "In Progress"
+          "name": "In progress"
         },
         {
           "id": "98236657",
@@ -44,139 +44,181 @@
       "type": "ProjectV2SingleSelectField"
     },
     "Labels": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKU",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09Jc",
       "name": "Labels",
       "type": "ProjectV2Field"
     },
     "Linked pull requests": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKY",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09Jk",
       "name": "Linked pull requests",
       "type": "ProjectV2Field"
     },
     "Milestone": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKc",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09Jo",
       "name": "Milestone",
       "type": "ProjectV2Field"
     },
     "Repository": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKg",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09Jw",
       "name": "Repository",
       "type": "ProjectV2Field"
     },
     "Reviewers": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKo",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09KA",
       "name": "Reviewers",
       "type": "ProjectV2Field"
     },
     "Parent issue": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKs",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09KE",
       "name": "Parent issue",
       "type": "ProjectV2Field"
     },
     "Sub-issues progress": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsKw",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09KM",
       "name": "Sub-issues progress",
       "type": "ProjectV2Field"
     },
     "Created": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsK4",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09KU",
       "name": "Created",
       "type": "ProjectV2Field"
     },
     "Updated": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsK8",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09Kg",
       "name": "Updated",
       "type": "ProjectV2Field"
     },
     "Closed": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzsLA",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09Ks",
       "name": "Closed",
       "type": "ProjectV2Field"
     },
-    "Start date": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmztzE",
-      "name": "Start date",
-      "type": "ProjectV2Field"
-    },
-    "Target date": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmztzo",
-      "name": "Target date",
-      "type": "ProjectV2Field"
-    },
-    "Workstream": {
-      "id": "PVTSSF_lAHOACOc9c4BoS7qzhmztzw",
-      "name": "Workstream",
-      "options": [
-        {
-          "id": "b6ff736d",
-          "name": "Funding"
-        },
-        {
-          "id": "38e28954",
-          "name": "Rental"
-        },
-        {
-          "id": "dbd6fc3e",
-          "name": "Operations"
-        },
-        {
-          "id": "75c9e82a",
-          "name": "BandyWorks"
-        },
-        {
-          "id": "76ba85e0",
-          "name": "Property Equipment"
-        }
-      ],
-      "type": "ProjectV2SingleSelectField"
-    },
     "Priority": {
-      "id": "PVTSSF_lAHOACOc9c4BoS7qzhmzt0E",
+      "id": "PVTSSF_lAHOACOc9c4BoUR-zhm09RQ",
       "name": "Priority",
       "options": [
         {
-          "id": "cb573c8f",
+          "id": "7dc95a4c",
           "name": "P0"
         },
         {
-          "id": "1f2405f5",
+          "id": "3e938e67",
           "name": "P1"
         },
         {
-          "id": "ca882759",
+          "id": "acfe7415",
           "name": "P2"
         }
       ],
       "type": "ProjectV2SingleSelectField"
     },
+    "Size": {
+      "id": "PVTSSF_lAHOACOc9c4BoUR-zhm09RU",
+      "name": "Size",
+      "options": [
+        {
+          "id": "7ba33d0d",
+          "name": "XS"
+        },
+        {
+          "id": "ac79a590",
+          "name": "S"
+        },
+        {
+          "id": "7411da96",
+          "name": "M"
+        },
+        {
+          "id": "7645cd41",
+          "name": "L"
+        },
+        {
+          "id": "c8a3f1ff",
+          "name": "XL"
+        }
+      ],
+      "type": "ProjectV2SingleSelectField"
+    },
+    "Estimate": {
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09RY",
+      "name": "Estimate",
+      "type": "ProjectV2Field"
+    },
+    "Iteration": {
+      "id": "PVTIF_lAHOACOc9c4BoUR-zhm09Rc",
+      "name": "Iteration",
+      "type": "ProjectV2IterationField"
+    },
+    "Start date": {
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09Rg",
+      "name": "Start date",
+      "type": "ProjectV2Field"
+    },
+    "Target date": {
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm09Rk",
+      "name": "Target date",
+      "type": "ProjectV2Field"
+    },
+    "Workstream": {
+      "id": "PVTSSF_lAHOACOc9c4BoUR-zhm0_eI",
+      "name": "Workstream",
+      "options": [
+        {
+          "id": "fc659de0",
+          "name": "Funding"
+        },
+        {
+          "id": "f8594120",
+          "name": "Rental"
+        },
+        {
+          "id": "a2ed1890",
+          "name": "Operations"
+        },
+        {
+          "id": "4d74840e",
+          "name": "BandyWorks"
+        },
+        {
+          "id": "ca5ef2ec",
+          "name": "Property Equipment"
+        }
+      ],
+      "type": "ProjectV2SingleSelectField"
+    },
     "Date basis": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzt1U",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm0_eo",
       "name": "Date basis",
       "type": "ProjectV2Field"
     },
     "Depends on": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzt1s",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm0_fI",
       "name": "Depends on",
       "type": "ProjectV2Field"
     },
     "Trigger": {
-      "id": "PVTF_lAHOACOc9c4BoS7qzhmzt2k",
+      "id": "PVTF_lAHOACOc9c4BoUR-zhm0_gE",
       "name": "Trigger",
       "type": "ProjectV2Field"
     }
   },
   "views": [
     {
-      "name": "By target date",
-      "url": "https://github.com/users/BandoKal/projects/5/views/2"
+      "name": "Backlog",
+      "url": "https://github.com/users/BandoKal/projects/7/views/1"
     },
     {
-      "name": "By workstream",
-      "url": "https://github.com/users/BandoKal/projects/5/views/3"
+      "name": "Board",
+      "url": "https://github.com/users/BandoKal/projects/7/views/2"
     },
     {
-      "name": "Awaiting events",
-      "url": "https://github.com/users/BandoKal/projects/5/views/4"
+      "name": "Roadmap",
+      "url": "https://github.com/users/BandoKal/projects/7/views/4"
+    },
+    {
+      "name": "My items",
+      "url": "https://github.com/users/BandoKal/projects/7/views/5"
     }
-  ]
+  ],
+  "previous_project_number": 5
 }

@@ -1,6 +1,6 @@
 # Project visibility investigation
 
-Checked October 22, 2026. Status: unresolved project collection/board visibility failure. The project setup is not fully usable in the GitHub board UI.
+Historical investigation of project 5. The user subsequently created project 7, which returns all 43 issues and is now the active project. The observations below concern the retired project 5.
 
 ## Observed evidence
 

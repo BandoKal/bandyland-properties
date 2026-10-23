@@ -8,7 +8,7 @@ Updated October 22, 2026. This reference summarizes the two supplied files for p
 - **Budget:** [Bandy Budget](sources/Bandy_Budget.xlsx), containing Budget, Rental, BandyWorks, and Property Equipment sheets. Cached values and formulas were inspected without modifying the workbook.
 - Earlier ChatGPT shares remain unread because login was required: [conversation 1](https://chatgpt.com/share/6ada6fce-d778-83e9-a263-f32d7dc6efe5), [conversation 2](https://chatgpt.com/share/6ada6ff8-e520-83ea-b414-e09a3e938647). No facts below rely on them.
 
-The plan explicitly revises the reserve downward, but the workbook carries the older reserve and lacks the plan's startup estimates. Preserve both cases until reconciled. File timestamps do not establish which policy is authoritative. Legal, tax, market, and equipment claims are source assertions, not independently revalidated advice.
+The user clarified that the reserve should start with $9,000 and grow to $18,000 by retaining a portion of otherwise available owner draw. The split percentage is still pending. The workbook must distinguish initial funding from the eventual target and still needs the plan's startup estimates reconciled. Legal, tax, market, and equipment claims are source assertions, not independently revalidated advice.
 
 ## Objective and property
 
@@ -18,7 +18,7 @@ The cited September 2026 mortgage balance is $167,603.73 at 4.250% fixed, maturi
 
 ## Unconfirmed decisions
 
-1. Approve a rental funding and reserve case, then reconcile the workbook.
+1. Confirm the owner-draw retention percentage, startup costs, contingency and distribution rules, then reconcile the workbook. The user approved a $9,000 initial reserve and $18,000 target.
 2. Choose a manager or deliberate first-lease self-management trial. The workbook assumes self-management but does not establish a signed decision.
 3. Confirm project start, work already completed, owners, and capacity. October 22, 2026 is the proposed schedule anchor; no completion is inferred.
 4. Record actual listing and lease dates. November 6 is a proposed marketing target after readiness, not a commitment.
@@ -41,6 +41,8 @@ The cited September 2026 mortgage balance is $167,603.73 at 4.250% fixed, maturi
 These are modeled outputs, not guaranteed income. Current insurance is partly included in escrow; replace the incremental $125 allowance with the confirmed change rather than adding the entire premium again. Keep startup funding separate from recurring rent-funded reserves. [Plan: Three Rent Scenarios, Two Management Paths; Rental!C24:C50.]
 
 ## Funding conflict requiring resolution
+
+**Owner clarification:** $9,000 is the initial seed reserve; $18,000 is the long-term reserve target. A portion of otherwise available owner distributions will build the difference. Do not budget $18,000 as the initial contribution. The retention percentage, calculation timing and post-target/replenishment rules remain undecided. See `planning/funding-policy.md`.
 
 | Item | Business plan | Workbook |
 | --- | ---: | ---: |
@@ -93,6 +95,8 @@ Budget ceiling $12,000; listed subtotal $8,930.42; remaining installation/cost b
 Combined $20,000 allowance covers mower, woods vehicle, small box trailer, accessories, safety/storage, and initial maintenance. Costs are unquoted; zero formula outputs do not mean free purchases. Confirm requirements, compatibility, delivered cost, and combined spending before buying. [Property Equipment!A4:F28.]
 
 ## Execution references
+
+The user created and selected [BandyLand project 7](https://github.com/users/BandoKal/projects/7/views/2) as the active project. Its project collection returns all 43 issues. It supersedes project 5 for ongoing work and the daily list. Issue F01 is being worked through interactively: the $9,000 seed and $18,000 target are confirmed; the draw-retention percentage, startup scope, contingency and detailed distribution rules remain pending.
 
 - `planning/tasks.json`: prepared issue definitions, proposed dates, dependencies, sources, and completion checklists.
 - `TASKS.md`: readable schedule, including event-based operations.
