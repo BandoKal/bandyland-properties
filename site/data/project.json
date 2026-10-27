@@ -1,0 +1,295 @@
+{
+  "updatedAt": "2026-10-27T03:12:44.727803+00:00",
+  "source": "Live GitHub Project 7 and repository issues",
+  "wipLimit": 3,
+  "items": [
+    {
+      "number": 1,
+      "title": "Reconcile rental funding and approve the reserve policy",
+      "status": "Done",
+      "closedAt": "2026-10-23T01:11:27Z",
+      "target": "2026-10-23",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/1"
+    },
+    {
+      "number": 2,
+      "title": "Confirm actual RSU proceeds and household emergency funding",
+      "status": "Done",
+      "closedAt": "2026-10-23T01:10:55Z",
+      "target": "2026-10-26",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/2"
+    },
+    {
+      "number": 3,
+      "title": "Obtain and verify the signed sale-listing release",
+      "status": "Done",
+      "closedAt": "2026-10-23T01:24:04Z",
+      "target": "2026-10-26",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/3"
+    },
+    {
+      "number": 4,
+      "title": "Obtain landlord insurance and written closed-pool requirements",
+      "status": "On hold",
+      "closedAt": null,
+      "target": "2026-10-28",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/4"
+    },
+    {
+      "number": 5,
+      "title": "Set up self-management responsibilities and procedures",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-10-28",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/5"
+    },
+    {
+      "number": 6,
+      "title": "Collect closing records and create the improvement schedule",
+      "status": "In progress",
+      "closedAt": null,
+      "target": "2026-10-28",
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/6"
+    },
+    {
+      "number": 7,
+      "title": "Confirm lender requirements and update insurance and escrow costs",
+      "status": "In progress",
+      "closedAt": null,
+      "target": "2026-10-29",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/7"
+    },
+    {
+      "number": 8,
+      "title": "Establish property accounts and fund the approved reserve",
+      "status": "Done",
+      "closedAt": "2026-10-27T03:04:26Z",
+      "target": "2026-10-29",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/8"
+    },
+    {
+      "number": 10,
+      "title": "Inspect safety, mechanical systems, grounds and septic",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-10-30",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/10"
+    },
+    {
+      "number": 12,
+      "title": "Configure bookkeeping, reserve categories and payment transitions",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-10-30",
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/12"
+    },
+    {
+      "number": 13,
+      "title": "Configure rental platform, emergency coverage and vendor roster",
+      "status": "In progress",
+      "closedAt": null,
+      "target": "2026-10-30",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/13"
+    },
+    {
+      "number": 14,
+      "title": "Approve screening criteria and base lease terms",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-02",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/14"
+    },
+    {
+      "number": 16,
+      "title": "Validate and document Fair Partnership benefits",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-03",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/16"
+    },
+    {
+      "number": 17,
+      "title": "Quote optional services and approve the service addendum",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-03",
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/17"
+    },
+    {
+      "number": 20,
+      "title": "Complete insurer-required pool closure and winterization",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-04",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/20"
+    },
+    {
+      "number": 22,
+      "title": "Confirm rental tax setup and the future sale decision window",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-04",
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/22"
+    },
+    {
+      "number": 23,
+      "title": "Complete required repairs and make-ready cleanup",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-05",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/23"
+    },
+    {
+      "number": 24,
+      "title": "Finalize reviewed lease, addenda and move-in packet",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-05",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/24"
+    },
+    {
+      "number": 25,
+      "title": "Approve readiness and publish the rental listing",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-06",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/25"
+    },
+    {
+      "number": 26,
+      "title": "Reconcile quotes, actual spend and remaining project funding",
+      "status": "Done",
+      "closedAt": "2026-10-27T03:05:09Z",
+      "target": "2026-11-06",
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/26"
+    },
+    {
+      "number": 27,
+      "title": "Prepare professional photos, floor plan and listing copy",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-06",
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/27"
+    },
+    {
+      "number": 30,
+      "title": "Track qualified inquiries, showings and applications",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-13",
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/30"
+    },
+    {
+      "number": 31,
+      "title": "Review the first seven days of rental demand",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-13",
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/31"
+    },
+    {
+      "number": 34,
+      "title": "Evaluate completed applications under approved criteria",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-20",
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/34"
+    },
+    {
+      "number": 35,
+      "title": "Make the day-14 asking-rent decision",
+      "status": "Todo",
+      "closedAt": null,
+      "target": "2026-11-20",
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/35"
+    },
+    {
+      "number": 37,
+      "title": "Execute lease and complete pre-possession requirements",
+      "status": "Todo",
+      "closedAt": null,
+      "target": null,
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/37"
+    },
+    {
+      "number": 38,
+      "title": "Complete move-in inspection and activate the tenant calendar",
+      "status": "Todo",
+      "closedAt": null,
+      "target": null,
+      "priority": "P0",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/38"
+    },
+    {
+      "number": 39,
+      "title": "Run the monthly rental close and operating review",
+      "status": "Todo",
+      "closedAt": null,
+      "target": null,
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/39"
+    },
+    {
+      "number": 40,
+      "title": "Review quarterly tenant credits and owner distributions",
+      "status": "Todo",
+      "closedAt": null,
+      "target": null,
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/40"
+    },
+    {
+      "number": 41,
+      "title": "Review self-management after the six-month retention trial",
+      "status": "Todo",
+      "closedAt": null,
+      "target": null,
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/41"
+    },
+    {
+      "number": 42,
+      "title": "Review annual tenant benefits, renewal and the hold decision",
+      "status": "Todo",
+      "closedAt": null,
+      "target": null,
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/42"
+    },
+    {
+      "number": 43,
+      "title": "Review fallback demand and decide whether to proceed or pause",
+      "status": "Todo",
+      "closedAt": null,
+      "target": null,
+      "priority": "P1",
+      "url": "https://github.com/BandoKal/bandyland-properties/issues/43"
+    }
+  ]
+}
