@@ -19,3 +19,7 @@ Edit public notes in `site/content/` and the document/decision catalog in `site/
 Preview: `python3 -m http.server 8765 --directory site-dist --bind 127.0.0.1`.
 
 The public site has no login and no access-control illusion. `noindex` is only a crawler request, not privacy. GitHub issue/board links retain their own GitHub permissions. Never put tokens into browser JavaScript or the snapshot. Automatic private-project polling would require a separate least-privilege authentication setup; it is not configured here.
+
+## Decision banners
+
+The refresh computes decisionAlerts from the public editorial decision register plus live project state. A `To decide` decision with an issue In progress or On hold shows a banner linked to its public document. Todo, Done, closed issues and Waiting/Agreed decisions do not trigger it. `document` must name a published document ID. An optional `completionChecklist` names the exact issue checkbox that resolves the decision; checking it removes the banner even if setup remains In progress. Issue bodies are read for this check only and never exported. Keep the register current as new decisions arise; do not infer that every On hold item needs an owner decision.

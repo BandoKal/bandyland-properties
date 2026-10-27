@@ -121,13 +121,16 @@
       "status": "To decide",
       "title": "Choose the rental platform",
       "body": "Start with Avail. Confirm separate Jason/Kara access, fee-free tenant ACH and reporting terms before subscribing.",
-      "issue": 13
+      "issue": 13,
+      "document": "platforms",
+      "completionChecklist": "Jason/Kara select platform and plan after resolving highlighted gaps."
     },
     {
       "status": "To decide",
       "title": "Insurance proof and any credit",
       "body": "Review provider-neutral coverage requirements. No named insurer or insurance credit has been adopted.",
-      "issue": 14
+      "issue": 14,
+      "document": "insurance"
     },
     {
       "status": "Waiting",

@@ -15,3 +15,5 @@ h1,h2{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-we
 @media(max-width:700px){header{height:88px}.quiet-link{font-size:11px;padding:7px 11px}.tabs{gap:6px}.tabs a{padding:9px 17px;font-size:13px}.section-heading{margin-top:25px}h2{font-size:27px}.lane{padding:16px;margin-bottom:6px}.lane-heading h3{font-size:17px}.lane-sub{min-height:0}.card{min-height:0;padding:18px}.active .card{padding-top:18px}.waiting{padding:20px}.document-grid .card{padding:20px}.reader article h1{font-size:29px}}
 
 .waiting .card{min-height:0;background:#f9fcff;border-color:#cfdee7}.waiting .pill{background:#dce8f3;color:#36576d}
+
+.decision-notice{background:#fff0b8;border:2px solid #d6a238;border-left:7px solid #e78559;padding:18px 22px}.decision-heading{display:block;font-size:18px;margin-bottom:8px;color:#594316}.decision-alert-row{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:6px 0;font-size:14px}.decision-alert-row a{font-weight:700}

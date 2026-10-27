@@ -28,3 +28,8 @@ assert not {9,11,15,18,19,21,28,29,32,33,36}.intersection(i['number'] for i in i
 active=[i['number'] for i in items if i['status']=='In progress']
 completed=sorted([i for i in items if i['status']=='Done'],key=lambda x:x['closedAt'] or '',reverse=True)[:3]
 print('Validated local links and publication boundary. Active:',active,'Recent:',[x['number'] for x in completed])
+
+for alert in snapshot.get('decisionAlerts',[]):
+    issue=next(i for i in items if i['number']==alert['issue'])
+    assert issue['status'] in ('In progress','On hold') and not issue.get('closedAt')
+    assert (dist/alert['documentUrl']).is_file(), 'Missing decision document'

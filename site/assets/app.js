@@ -8,6 +8,12 @@ function showTab(){const key=['overview','documents','decisions'].includes(locat
 window.addEventListener('hashchange',showTab);showTab();
 Promise.all(['project','editorial'].map(file=>fetch('data/'+file+'.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json();}))).then(([data,editorial])=>{
  const items=data.items.filter(x=>(x.labels||[]).some(label=>['rental','operations'].includes(label.toLowerCase())));
+ const alerts=(data.decisionAlerts||[]).filter(alert=>items.some(item=>item.number===alert.issue&&['In progress','On hold'].includes(item.status)));
+ if(alerts.length){
+  $('decision-alerts').append(el('strong','decision-heading',alerts.length===1?'A decision needs you':'Decisions need you'));
+  for(const alert of alerts){const row=el('div','decision-alert-row');row.append(el('span','',`#${alert.issue} · ${alert.status} — ${alert.title}`),link('Review '+alert.documentTitle+' →',alert.documentUrl));$('decision-alerts').append(row);}
+  $('decision-alerts').hidden=false;
+ }
  const active=items.filter(x=>x.status==='In progress');
  const complete=items.filter(x=>x.status==='Done').sort((a,b)=>(b.closedAt||'').localeCompare(a.closedAt||'')).slice(0,3);
  const todo=items.filter(x=>x.status==='Todo');
