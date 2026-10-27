@@ -13,7 +13,7 @@ Promise.all(['project','editorial'].map(file=>fetch('data/'+file+'.json').then(r
  const preferred=editorial.onDeck.map(n=>todo.find(x=>x.number===n)).filter(Boolean);
  const rest=todo.filter(x=>!editorial.onDeck.includes(x.number)).sort((a,b)=>(a.target||'9999').localeCompare(b.target||'9999')||a.number-b.number);
  const queued=[...preferred,...rest].slice(0,3);
- $('active-count').textContent=active.length;$('wip-warning').hidden=active.length<=data.wipLimit;
+ $('wip-warning').hidden=active.length<=data.wipLimit;
  for(const [id,items] of [['completed',complete],['active',active],['queued',queued]]){for(const item of items)$(id).append(card(item,id,editorial));if(!items.length)$(id).append(el('p','muted','No items in this stage.'));}
  $('freshness').textContent='GitHub snapshot · '+new Intl.DateTimeFormat('en-US',{dateStyle:'medium',timeStyle:'short',timeZone:'America/Chicago'}).format(new Date(data.updatedAt))+' Central';
  $('stale').hidden=Date.now()-Date.parse(data.updatedAt)<86400000;
