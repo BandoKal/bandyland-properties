@@ -22,6 +22,7 @@ for file in dist.rglob('*'):
         for forbidden in ['167,603.73','96,290','44,290','6158400718','FMfcgzQh','/Users/jason/','gho_']:
             assert forbidden not in text,(file,forbidden)
 snapshot=json.loads((dist/'data/project.json').read_text());items=snapshot['items']
+assert all({'rental','operations'}.intersection(label.casefold() for label in i.get('labels',[])) for i in items), 'Out-of-scope issue in published snapshot'
 assert len({i['number'] for i in items})==len(items)
 assert not {9,11,15,18,19,21,28,29,32,33,36}.intersection(i['number'] for i in items)
 active=[i['number'] for i in items if i['status']=='In progress']

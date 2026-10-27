@@ -1,40 +1,139 @@
 {
-  "onDeck": [12, 14, 10],
+  "onDeck": [
+    12,
+    14,
+    10
+  ],
   "onDeckBasis": "Owner review queue: bookkeeping, lease criteria, then remaining safety checks. Proposed order; start only when WIP capacity and prerequisites allow.",
   "summaries": {
-    "1": "Reserve policy and initial funding approach agreed.",
-    "2": "Owner closed the initial funding review.",
     "3": "Amanda will handle the rental listing and remain the agent if selling becomes the plan.",
-    "4": "Waiting for the insurance agent’s written pool and coverage guidance.",
+    "4": "Waiting for the insurance agent\u2019s written pool and coverage guidance.",
     "6": "Jason and Kara: gather closing paperwork, improvement evidence and the existing appraisal.",
-    "7": "Confirm the lender’s rental and insurance requirements; record the request and response.",
+    "7": "Confirm the lender\u2019s rental and insurance requirements; record the request and response.",
     "8": "Owner confirmed property-account funding is complete. Tenant-deposit account remains a later step.",
     "10": "Review existing reports, then identify remaining rental safety and condition checks.",
     "12": "Set up the monthly ledger, opening balances and reserve records.",
     "13": "Jason and Kara: choose a platform, confirm fee-free tenant ACH and set up backup/emergency procedures.",
-    "14": "Review consistent screening criteria and lease terms, including insurance evidence.",
-    "26": "Closed in the live project. Detailed financial records remain off this public site."
+    "14": "Review consistent screening criteria and lease terms, including insurance evidence."
   },
-  "holdNotes": {"4": "Pool follow-up sent. Proposed follow-up: October 29 if unanswered."},
+  "holdNotes": {
+    "4": "Pool follow-up sent. Proposed follow-up: October 29 if unanswered."
+  },
   "documents": [
-    {"id":"rental-plan","title":"Rental plan overview","description":"Six sections covering the current plan, people, readiness and operating approach.","category":"Start here","file":"rental-plan.md","status":"Public summary"},
-    {"id":"platforms","title":"Rental platform comparison","description":"Avail first, plus four alternatives. Costs, ACH, shared access and rent reporting.","category":"Choose together","file":"rental-platform-comparison.md","status":"Research · Oct 26"},
-    {"id":"procedures","title":"Self-management procedures","description":"A practical checklist for Jason and Kara: contacts, repairs, records and backup coverage.","category":"Operations","file":"self-management-procedures.md","status":"Proposed procedures"},
-    {"id":"insurance","title":"Insurance & lease review","description":"Agent recommendation, provider-neutral proof requirements and questions still open.","category":"Decisions to review","file":"renters-insurance-lease-review.md","status":"Review needed"},
-    {"id":"pool","title":"Pool-closing checklist","description":"Jason’s planned closure steps; completion and insurer conditions still need recording.","category":"Operations","file":"pool-checklist.md","status":"Not yet complete"},
-    {"id":"original-plan","title":"Original business plan / six-pager","description":"Goslin Branch Rental Business Plan. Private source file in the shared workspace; request it from Jason.","category":"Private references","status":"Not published"},
-    {"id":"budget","title":"Original budget workbook","description":"Includes rental and personal/other-business finances. Kept off this public site.","category":"Private references","status":"Not published"},
-    {"id":"records","title":"Closing, improvement & appraisal records","description":"Document collection is tracked in #6. Records and contractor-email inventory are not published here.","category":"Private references","status":"Collection in progress"}
+    {
+      "id": "rental-plan",
+      "title": "Rental plan overview",
+      "description": "Six sections covering the current plan, people, readiness and operating approach.",
+      "category": "Start here",
+      "file": "rental-plan.md",
+      "status": "Public summary"
+    },
+    {
+      "id": "platforms",
+      "title": "Rental platform comparison",
+      "description": "Avail first, plus four alternatives. Costs, ACH, shared access and rent reporting.",
+      "category": "Choose together",
+      "file": "rental-platform-comparison.md",
+      "status": "Research \u00b7 Oct 26"
+    },
+    {
+      "id": "procedures",
+      "title": "Self-management procedures",
+      "description": "A practical checklist for Jason and Kara: contacts, repairs, records and backup coverage.",
+      "category": "Operations",
+      "file": "self-management-procedures.md",
+      "status": "Proposed procedures"
+    },
+    {
+      "id": "insurance",
+      "title": "Insurance & lease review",
+      "description": "Agent recommendation, provider-neutral proof requirements and questions still open.",
+      "category": "Decisions to review",
+      "file": "renters-insurance-lease-review.md",
+      "status": "Review needed"
+    },
+    {
+      "id": "pool",
+      "title": "Pool-closing checklist",
+      "description": "Jason\u2019s planned closure steps; completion and insurer conditions still need recording.",
+      "category": "Operations",
+      "file": "pool-checklist.md",
+      "status": "Not yet complete"
+    },
+    {
+      "id": "original-plan",
+      "title": "Original business plan / six-pager",
+      "description": "Goslin Branch Rental Business Plan. Private source file in the shared workspace; request it from Jason.",
+      "category": "Private references",
+      "status": "Not published"
+    },
+    {
+      "id": "budget",
+      "title": "Original budget workbook",
+      "description": "Includes rental and personal/other-business finances. Kept off this public site.",
+      "category": "Private references",
+      "status": "Not published"
+    },
+    {
+      "id": "records",
+      "title": "Closing, improvement & appraisal records",
+      "description": "Document collection is tracked in #6. Records and contractor-email inventory are not published here.",
+      "category": "Private references",
+      "status": "Collection in progress"
+    }
   ],
   "decisions": [
-    {"status":"Agreed","title":"We will self-manage","body":"Jason owns the tasks; Kara is backup and may take delegated work. Outside property-manager proposals are no longer needed.","issue":5},
-    {"status":"Agreed","title":"Amanda handles the listing","body":"Amanda will list on real-estate platforms and remains the agent if the owners pivot to selling.","issue":3},
-    {"status":"Agreed","title":"Keep active work to three","body":"On hold is separate. New work begins when there is room and prerequisites are met."},
-    {"status":"Agreed","title":"Funding is complete","body":"Owner confirmed completion. The separate tenant-deposit account remains a later step; do not mix tenant funds with operating cash.","issue":8},
-    {"status":"Agreed","title":"Jason will close the pool","body":"Use supplies already owned and Jason’s labor. Keep the pool unavailable to tenants, subject to written insurer requirements.","issue":20},
-    {"status":"Agreed","title":"Rental property only","body":"BandyWorks and unrelated equipment purchases are outside this project."},
-    {"status":"To decide","title":"Choose the rental platform","body":"Start with Avail. Confirm separate Jason/Kara access, fee-free tenant ACH and reporting terms before subscribing.","issue":13},
-    {"status":"To decide","title":"Insurance proof and any credit","body":"Review provider-neutral coverage requirements. No named insurer or insurance credit has been adopted.","issue":14},
-    {"status":"Waiting","title":"Pool and policy transition conditions","body":"Await the insurance agent’s written reply. Lease signing alone is not a confirmed coverage-change trigger.","issue":4}
+    {
+      "status": "Agreed",
+      "title": "We will self-manage",
+      "body": "Jason owns the tasks; Kara is backup and may take delegated work. Outside property-manager proposals are no longer needed.",
+      "issue": 5
+    },
+    {
+      "status": "Agreed",
+      "title": "Amanda handles the listing",
+      "body": "Amanda will list on real-estate platforms and remains the agent if the owners pivot to selling.",
+      "issue": 3
+    },
+    {
+      "status": "Agreed",
+      "title": "Keep active work to three",
+      "body": "On hold is separate. New work begins when there is room and prerequisites are met."
+    },
+    {
+      "status": "Agreed",
+      "title": "Funding is complete",
+      "body": "Owner confirmed completion. The separate tenant-deposit account remains a later step; do not mix tenant funds with operating cash.",
+      "issue": 8
+    },
+    {
+      "status": "Agreed",
+      "title": "Jason will close the pool",
+      "body": "Use supplies already owned and Jason\u2019s labor. Keep the pool unavailable to tenants, subject to written insurer requirements.",
+      "issue": 20
+    },
+    {
+      "status": "Agreed",
+      "title": "Rental property only",
+      "body": "BandyWorks and unrelated equipment purchases are outside this project."
+    },
+    {
+      "status": "To decide",
+      "title": "Choose the rental platform",
+      "body": "Start with Avail. Confirm separate Jason/Kara access, fee-free tenant ACH and reporting terms before subscribing.",
+      "issue": 13
+    },
+    {
+      "status": "To decide",
+      "title": "Insurance proof and any credit",
+      "body": "Review provider-neutral coverage requirements. No named insurer or insurance credit has been adopted.",
+      "issue": 14
+    },
+    {
+      "status": "Waiting",
+      "title": "Pool and policy transition conditions",
+      "body": "Await the insurance agent\u2019s written reply. Lease signing alone is not a confirmed coverage-change trigger.",
+      "issue": 4
+    }
   ]
 }

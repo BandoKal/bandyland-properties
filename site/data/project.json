@@ -1,29 +1,15 @@
 {
-  "updatedAt": "2026-10-27T03:12:44.727803+00:00",
+  "updatedAt": "2026-10-27T03:31:26.881476+00:00",
   "source": "Live GitHub Project 7 and repository issues",
   "wipLimit": 3,
   "items": [
     {
-      "number": 1,
-      "title": "Reconcile rental funding and approve the reserve policy",
-      "status": "Done",
-      "closedAt": "2026-10-23T01:11:27Z",
-      "target": "2026-10-23",
-      "priority": "P0",
-      "url": "https://github.com/BandoKal/bandyland-properties/issues/1"
-    },
-    {
-      "number": 2,
-      "title": "Confirm actual RSU proceeds and household emergency funding",
-      "status": "Done",
-      "closedAt": "2026-10-23T01:10:55Z",
-      "target": "2026-10-26",
-      "priority": "P0",
-      "url": "https://github.com/BandoKal/bandyland-properties/issues/2"
-    },
-    {
       "number": 3,
       "title": "Obtain and verify the signed sale-listing release",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "Done",
       "closedAt": "2026-10-23T01:24:04Z",
       "target": "2026-10-26",
@@ -33,6 +19,10 @@
     {
       "number": 4,
       "title": "Obtain landlord insurance and written closed-pool requirements",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "On hold",
       "closedAt": null,
       "target": "2026-10-28",
@@ -42,6 +32,10 @@
     {
       "number": 5,
       "title": "Set up self-management responsibilities and procedures",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-10-28",
@@ -51,6 +45,10 @@
     {
       "number": 6,
       "title": "Collect closing records and create the improvement schedule",
+      "labels": [
+        "Rental",
+        "P1"
+      ],
       "status": "In progress",
       "closedAt": null,
       "target": "2026-10-28",
@@ -60,6 +58,10 @@
     {
       "number": 7,
       "title": "Confirm lender requirements and update insurance and escrow costs",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "In progress",
       "closedAt": null,
       "target": "2026-10-29",
@@ -69,6 +71,10 @@
     {
       "number": 8,
       "title": "Establish property accounts and fund the approved reserve",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "Done",
       "closedAt": "2026-10-27T03:04:26Z",
       "target": "2026-10-29",
@@ -78,6 +84,10 @@
     {
       "number": 10,
       "title": "Inspect safety, mechanical systems, grounds and septic",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-10-30",
@@ -87,6 +97,10 @@
     {
       "number": 12,
       "title": "Configure bookkeeping, reserve categories and payment transitions",
+      "labels": [
+        "Rental",
+        "P1"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-10-30",
@@ -96,6 +110,10 @@
     {
       "number": 13,
       "title": "Configure rental platform, emergency coverage and vendor roster",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "In progress",
       "closedAt": null,
       "target": "2026-10-30",
@@ -105,6 +123,10 @@
     {
       "number": 14,
       "title": "Approve screening criteria and base lease terms",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-02",
@@ -114,6 +136,10 @@
     {
       "number": 16,
       "title": "Validate and document Fair Partnership benefits",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-03",
@@ -123,6 +149,10 @@
     {
       "number": 17,
       "title": "Quote optional services and approve the service addendum",
+      "labels": [
+        "Rental",
+        "P1"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-03",
@@ -132,6 +162,10 @@
     {
       "number": 20,
       "title": "Complete insurer-required pool closure and winterization",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-04",
@@ -141,6 +175,10 @@
     {
       "number": 22,
       "title": "Confirm rental tax setup and the future sale decision window",
+      "labels": [
+        "Rental",
+        "P1"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-04",
@@ -150,6 +188,10 @@
     {
       "number": 23,
       "title": "Complete required repairs and make-ready cleanup",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-05",
@@ -159,6 +201,10 @@
     {
       "number": 24,
       "title": "Finalize reviewed lease, addenda and move-in packet",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-05",
@@ -168,6 +214,10 @@
     {
       "number": 25,
       "title": "Approve readiness and publish the rental listing",
+      "labels": [
+        "Rental",
+        "P0"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-06",
@@ -175,17 +225,12 @@
       "url": "https://github.com/BandoKal/bandyland-properties/issues/25"
     },
     {
-      "number": 26,
-      "title": "Reconcile quotes, actual spend and remaining project funding",
-      "status": "Done",
-      "closedAt": "2026-10-27T03:05:09Z",
-      "target": "2026-11-06",
-      "priority": "P1",
-      "url": "https://github.com/BandoKal/bandyland-properties/issues/26"
-    },
-    {
       "number": 27,
       "title": "Prepare professional photos, floor plan and listing copy",
+      "labels": [
+        "Rental",
+        "P1"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-06",
@@ -195,6 +240,11 @@
     {
       "number": 30,
       "title": "Track qualified inquiries, showings and applications",
+      "labels": [
+        "Rental",
+        "P1",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-13",
@@ -204,6 +254,11 @@
     {
       "number": 31,
       "title": "Review the first seven days of rental demand",
+      "labels": [
+        "Rental",
+        "P1",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-13",
@@ -213,6 +268,11 @@
     {
       "number": 34,
       "title": "Evaluate completed applications under approved criteria",
+      "labels": [
+        "Rental",
+        "P0",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-20",
@@ -222,6 +282,11 @@
     {
       "number": 35,
       "title": "Make the day-14 asking-rent decision",
+      "labels": [
+        "Rental",
+        "P1",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": "2026-11-20",
@@ -231,6 +296,11 @@
     {
       "number": 37,
       "title": "Execute lease and complete pre-possession requirements",
+      "labels": [
+        "Rental",
+        "P0",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": null,
@@ -240,6 +310,11 @@
     {
       "number": 38,
       "title": "Complete move-in inspection and activate the tenant calendar",
+      "labels": [
+        "Rental",
+        "P0",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": null,
@@ -249,6 +324,11 @@
     {
       "number": 39,
       "title": "Run the monthly rental close and operating review",
+      "labels": [
+        "Operations",
+        "P1",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": null,
@@ -258,6 +338,11 @@
     {
       "number": 40,
       "title": "Review quarterly tenant credits and owner distributions",
+      "labels": [
+        "Operations",
+        "P1",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": null,
@@ -267,6 +352,11 @@
     {
       "number": 41,
       "title": "Review self-management after the six-month retention trial",
+      "labels": [
+        "Operations",
+        "P1",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": null,
@@ -276,6 +366,11 @@
     {
       "number": 42,
       "title": "Review annual tenant benefits, renewal and the hold decision",
+      "labels": [
+        "Operations",
+        "P1",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": null,
@@ -285,6 +380,11 @@
     {
       "number": 43,
       "title": "Review fallback demand and decide whether to proceed or pause",
+      "labels": [
+        "Rental",
+        "P1",
+        "event-dependent"
+      ],
       "status": "Todo",
       "closedAt": null,
       "target": null,
