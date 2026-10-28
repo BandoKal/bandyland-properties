@@ -80,6 +80,14 @@
       "description": "Document collection is tracked in #6. Records and contractor-email inventory are not published here.",
       "category": "Private references",
       "status": "Collection in progress"
+    },
+    {
+      "id": "pets",
+      "title": "Pet policy decision",
+      "description": "Pets are allowed in principle; the maximum number per household remains undecided.",
+      "category": "Decisions to review",
+      "file": "pet-policy.md",
+      "status": "Pet limit undecided"
     }
   ],
   "decisions": [
@@ -137,6 +145,20 @@
       "title": "Pool and policy transition conditions",
       "body": "Await the insurance agent\u2019s written reply. Lease signing alone is not a confirmed coverage-change trigger.",
       "issue": 4
+    },
+    {
+      "status": "Agreed",
+      "title": "Tenants may have pets",
+      "body": "Pets will be allowed, subject to a limit on the number per household. The exact maximum has not been selected.",
+      "issue": 14
+    },
+    {
+      "status": "To decide",
+      "title": "Set the maximum number of pets",
+      "body": "Choose the maximum pets per household before finalizing listing and lease terms. No number or pet charges are approved yet.",
+      "issue": 14,
+      "document": "pets",
+      "completionChecklist": "Owner selects the maximum number of pets per household."
     }
   ]
 }
