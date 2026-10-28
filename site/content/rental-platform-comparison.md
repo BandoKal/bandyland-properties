@@ -1,5 +1,8 @@
 # Rental platform shortlist for Jason and Kara
 
+> **Decision recorded October 27:** Jason and Kara selected **Avail**, and Jason confirms an owner account exists. Subscription tier is unconfirmed. The comparison below is historical research, not an outstanding selection request. Remaining work: payments #12, lease setup #24, listing coordination #25, and backup/emergency procedures #5. #13 is complete for selection/account creation.
+
+
 Reviewed October 26, 2026 • One personally owned rental • Decision and setup target: October 30 (proposed)
 
 ## Recommendation

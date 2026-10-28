@@ -12,8 +12,8 @@
     "7": "Confirm the lender\u2019s rental and insurance requirements; record the request and response.",
     "8": "Owner confirmed property-account funding is complete. Tenant-deposit account remains a later step.",
     "10": "Review existing reports, then identify remaining rental safety and condition checks.",
-    "12": "Set up the monthly ledger, opening balances and reserve records.",
-    "13": "Jason and Kara: choose a platform, confirm fee-free tenant ACH and set up backup/emergency procedures.",
+    "12": "Configure Avail payments, verify bank/fee settings and set up the monthly ledger.",
+    "13": "Avail selected and owner account created. Listing, lease, payment and operating setup remain in follow-up issues.",
     "14": "Review consistent screening criteria and lease terms, including insurance evidence."
   },
   "holdNotes": {
@@ -31,10 +31,10 @@
     {
       "id": "platforms",
       "title": "Rental platform comparison",
-      "description": "Avail first, plus four alternatives. Costs, ACH, shared access and rent reporting.",
+      "description": "Decision record and original five-platform comparison. Avail account created; configuration remains outstanding.",
       "category": "Choose together",
       "file": "rental-platform-comparison.md",
-      "status": "Research \u00b7 Oct 26"
+      "status": "Avail selected \u00b7 Oct 27"
     },
     {
       "id": "procedures",
@@ -118,9 +118,9 @@
       "body": "BandyWorks and unrelated equipment purchases are outside this project."
     },
     {
-      "status": "To decide",
-      "title": "Choose the rental platform",
-      "body": "Start with Avail. Confirm separate Jason/Kara access, fee-free tenant ACH and reporting terms before subscribing.",
+      "status": "Agreed",
+      "title": "Avail selected",
+      "body": "Jason confirmed Avail and an owner account on October 27. Listing, lease and payment setup remain outstanding; subscription tier is not confirmed.",
       "issue": 13,
       "document": "platforms",
       "completionChecklist": "Jason/Kara select platform and plan after resolving highlighted gaps."

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T16:25:35.381685+00:00",
+  "updatedAt": "2026-10-28T04:05:12.265371+00:00",
   "source": "Live GitHub Project 7 and repository issues",
   "wipLimit": 3,
   "items": [
@@ -109,13 +109,13 @@
     },
     {
       "number": 13,
-      "title": "Configure rental platform, emergency coverage and vendor roster",
+      "title": "Select rental platform and create Avail account",
       "labels": [
         "Rental",
         "P0"
       ],
-      "status": "In progress",
-      "closedAt": null,
+      "status": "Done",
+      "closedAt": "2026-10-28T04:05:07Z",
       "target": "2026-10-30",
       "priority": "P0",
       "url": "https://github.com/BandoKal/bandyland-properties/issues/13"
@@ -392,14 +392,5 @@
       "url": "https://github.com/BandoKal/bandyland-properties/issues/43"
     }
   ],
-  "decisionAlerts": [
-    {
-      "issue": 13,
-      "status": "In progress",
-      "title": "Choose the rental platform",
-      "documentTitle": "Rental platform comparison",
-      "documentUrl": "documents/platforms.html",
-      "issueUrl": "https://github.com/BandoKal/bandyland-properties/issues/13"
-    }
-  ]
+  "decisionAlerts": []
 }
