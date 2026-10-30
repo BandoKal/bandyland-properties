@@ -84,7 +84,7 @@
     {
       "id": "pets",
       "title": "Pet policy decision",
-      "description": "Pets are allowed in principle; the maximum number per household remains undecided.",
+      "description": "Pets allowed; $300 one-time fee per approved pet. Maximum number per household remains undecided.",
       "category": "Decisions to review",
       "file": "pet-policy.md",
       "status": "Pet limit undecided"
@@ -155,10 +155,17 @@
     {
       "status": "To decide",
       "title": "Set the maximum number of pets",
-      "body": "Choose the maximum pets per household before finalizing listing and lease terms. No number or pet charges are approved yet.",
+      "body": "Choose the maximum pets per household before finalizing listing and lease terms. Pet charges are approved separately; the number remains undecided.",
       "issue": 14,
       "document": "pets",
       "completionChecklist": "Owner selects the maximum number of pets per household."
+    },
+    {
+      "status": "Agreed",
+      "title": "Pet fee: $300 per approved pet",
+      "body": "One-time nonrefundable fee, with no repeat fee at renewal, monthly pet rent or additional pet deposit. Qualifying assistance animals are handled separately without ordinary pet charges. Approved October 29; pet count remains undecided.",
+      "issue": 14,
+      "document": "pets"
     }
   ]
 }
