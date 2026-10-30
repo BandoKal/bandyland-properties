@@ -84,10 +84,10 @@
     {
       "id": "pets",
       "title": "Pet policy decision",
-      "description": "Pets allowed; $300 one-time fee per approved pet. Maximum number per household remains undecided.",
+      "description": "Maximum four pets per household; $300 one-time nonrefundable fee per approved pet.",
       "category": "Decisions to review",
       "file": "pet-policy.md",
-      "status": "Pet limit undecided"
+      "status": "Pet limit and fee agreed"
     }
   ],
   "decisions": [
@@ -149,13 +149,13 @@
     {
       "status": "Agreed",
       "title": "Tenants may have pets",
-      "body": "Pets will be allowed, subject to a limit on the number per household. The exact maximum has not been selected.",
+      "body": "Pets are allowed, subject to a maximum of four pets total per household, approved October 29.",
       "issue": 14
     },
     {
-      "status": "To decide",
-      "title": "Set the maximum number of pets",
-      "body": "Choose the maximum pets per household before finalizing listing and lease terms. Pet charges are approved separately; the number remains undecided.",
+      "status": "Agreed",
+      "title": "Maximum four pets per household",
+      "body": "Jason approved four pets total per household on October 29, describing a mix of dogs and cats. Apply consistently in reviewed lease and listing terms.",
       "issue": 14,
       "document": "pets",
       "completionChecklist": "Owner selects the maximum number of pets per household."
@@ -163,7 +163,7 @@
     {
       "status": "Agreed",
       "title": "Pet fee: $300 per approved pet",
-      "body": "One-time nonrefundable fee, with no repeat fee at renewal, monthly pet rent or additional pet deposit. Qualifying assistance animals are handled separately without ordinary pet charges. Approved October 29; pet count remains undecided.",
+      "body": "One-time nonrefundable fee, with no repeat fee at renewal, monthly pet rent or additional pet deposit. Qualifying assistance animals are handled separately without ordinary pet charges. Approved October 29; maximum four pets total per household.",
       "issue": 14,
       "document": "pets"
     }

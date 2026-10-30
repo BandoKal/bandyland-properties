@@ -4,7 +4,7 @@ Recorded October 28, 2026. Pet charges approved October 29, 2026.
 
 ## Agreed
 
-Tenants may have pets, subject to a maximum number of pets per household.
+Tenants may have up to **four pets total per household**, not four per species. Jason approved this maximum October 29, 2026, describing a mix of dogs and cats.
 
 ### Approved pet charges
 
@@ -17,13 +17,13 @@ Jason approved these terms October 29. Entering the fee in Avail and incorporati
 
 ## Still to decide
 
-**The maximum number is undecided.** Jason explicitly chose to leave the number open for now. This does not mean unlimited pets are allowed.
+The four-pet maximum supersedes the earlier decision to leave the number open.
 
 Pet types and breed/size restrictions remain undecided. Do not add assumed terms to the listing or lease.
 
 ## Next steps
 
-- [ ] Jason and Kara choose the maximum number of pets per household in issue #14.
+- [x] Jason chooses a maximum of four pets total per household in issue #14.
 - [ ] Include the agreed policy in the lease review under #24.
 - [ ] Make listing/application and lease wording consistent before publication or signature.
 
